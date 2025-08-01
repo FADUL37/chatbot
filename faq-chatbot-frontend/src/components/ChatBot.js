@@ -1,6 +1,6 @@
 import React, { useState } from "react";
 
-const API_URL = process.env.REACT_APP_API_URL || 'https://chatbot-wkj7.onrender.com';
+const API_URL = process.env.REACT_APP_API_URL || "http://localhost:3001";
 
 export default function ChatBot() {
   const [input, setInput] = useState("");
