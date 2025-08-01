@@ -1,0 +1,115 @@
+VMAX - FAQ Chatbot
+
+1. Horário de atendimento da UPCALL (GMT -3):  
+R:  
+   - Segunda à Sexta: 21h às 08h do dia seguinte  
+   - Sábados: 20h às 09h de Domingo  
+   - Domingos: 15h20 às 08h de Segunda  
+   - UPSOFT em desenvolvimento
+
+2. Acessos:  
+R:  
+   - Voalle (Consulta contrato/financeiro e abertura de protocolo)  
+     - Login: 892.045.610-09  
+     - Senha: Upcall2025@  
+   - SAT (Consulta alertas massivos e autenticação clientes)  
+     - Login: upcall@vmax.com.br  
+     - Senha: oXOYgPGRXQSH
+
+3. Tecnologias oferecidas:  
+R: Via rádio, FTTH Epon e Gpon, telefonia PABX, telefone IP e residencial.
+
+4. Planos vendidos:  
+R: De 120Mb a 1Gb, telefonia corporativa e residencial, TV.
+
+5. Cidades/Bairros atendidos:  
+R: Itatiba, Atibaia, Nazaré Paulista, Bom Jesus dos Perdões, Piracaia, Campinas, Vinhedo, Valinhos e Louveira.
+
+6. Equipamentos utilizados:  
+R: Antena, roteadores, ONUs, telefones IP e Routerboard.
+
+7. Suporte a repetidores:  
+R: Sim.
+
+8. Suporte a câmeras:  
+R: Apenas auxílio e orientação, sem reparos.
+
+9. Acesso remoto aos roteadores:  
+R: Não há. Solicitar abertura de atendimento para equipe N1 para análise e solução.
+
+10. Informar senha do roteador ao cliente?  
+R: Sim, dados no SAT quando disponível.
+
+11. Cobrança por abertura de OS para trocar senha?  
+R: Não, abrir atendimento N1 para análise e solução.
+
+12. Site para teste de velocidade:  
+R: Speedtest by Ookla ou Fast.com.
+
+13. Garantia de banda via WiFi?  
+R: Não, somente via cabo direto da ONU ou roteador.
+
+14. DNS padrão:  
+R: 189.14.80.245 e 189.14.80.246.
+
+15. Tratativas para reset, suporte N2/N3, agendamento, custo visita técnica, plantão, forma de pagamento serviços, mudanças e cancelamentos:  
+R: Em todos esses casos, abrir atendimento para equipe RELACIONAMENTO ATENDIMENTO N1 para análise e solução; informar cliente que a equipe avançada entrará em contato.
+
+16. IPTV e suporte:  
+R: Sim, homologado pela ANATEL.
+
+17. IP fixo e valor:  
+R: Sim, a partir de R$ 180,00.
+
+---
+
+### FINANCEIRO E COMERCIAL
+
+18. Envio de fatura:  
+R: Sim.
+
+19. Bloqueio:  
+R: Após 30 dias de atraso.
+
+20. Desbloqueio de confiança:  
+R: Não.
+
+21. Liberação da conexão:  
+R: Atendimento N1 (como citado acima).
+
+22. Redução de velocidade:  
+R: Após 15 dias de atraso.
+
+23. Métodos de pagamento:  
+R: Boleto e Pix.
+
+24. Procedimento para comprovante de pagamento:  
+R: Abrir atendimento para equipe N1.
+
+25. Cancelamento:  
+R: Abrir atendimento para equipe N1.
+
+---
+
+### INFORMAÇÕES DA EMPRESA
+
+26. ERP:  
+R: Voalle.
+
+27. Central do Assinante:  
+R: https://vmaxdigital.com.br/minhavmax/
+
+28. Endereço comercial:  
+R: Rua Antonio Carlos Gilii, n°11, Jardim Santo Antonio - Itatiba SP.
+
+29. Atendimento presencial:  
+R: Segunda à sexta das 08h às 18h, sábados das 08h às 12h.
+
+30. Contatos:  
+R:  
+   - Telefone e WhatsApp: (11) 4894-8000 / 0800 778 0088  
+   - Site: https://vmax.com.br/
+
+---
+
+FIM DO FAQ VMAX

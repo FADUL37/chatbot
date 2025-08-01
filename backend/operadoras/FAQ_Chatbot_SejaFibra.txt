@@ -1,0 +1,184 @@
+Seja Fibra - FAQ Chatbot
+
+1. Qual o horário de atendimento da UpCall?  
+R:  
+   - Segunda a sexta: 17h às 22h  
+   - Sábados: 12h às 22h  
+   - Domingos: 09h às 22h  
+   - UPSOFT - OK
+
+2. Sobre nomes usados pelo provedor:  
+R: Alguns clientes reconhecem o provedor como Caboimagem, Kaybee, MPV, Sansara ou nomes anteriores. Outros ligam por engano, achando que são TRIX, NIPPONET, NET CLARO ou GIGA.
+
+3. Quais as tecnologias oferecidas?  
+R: Fibra, TV via fibra (em migração), Aplicativo Seja Fibra Play (MultiTV para 3 dispositivos).  
+   Clientes com só TV têm login com 1Kbps (Plano SeAC).  
+   Usuário e senha TV no IXC, pode ser alterado pelo app.
+
+4. Quais os SVA's?  
+R: Leveduca, Conta Outra Vez, Paramount Plus, Watch, PlayHub e MAX.
+
+5. Quais os planos vendidos?  
+R:  
+   - 600 Mega = R$89  
+   - 800 Mega = R$149  
+   - Fibra Play Básico = R$98  
+   - Fibra Play Premium = R$118  
+   - Combo 600 mb + Fibra Play Básico = R$142  
+   - Combo 600 mb + Fibra Play Premium = R$162  
+   - Combo 800 mb + Fibra Play Básico = R$186  
+   - Combo 800 mb + Fibra Play Premium = R$206
+
+6. Quais cidades/bairros atendidos?  
+R: Ubatuba e Caraguatuba.
+
+7. Quais equipamentos utilizados?  
+R: ONU (Fiberhome ou TPLink) e roteador. Ainda há ONU ZTE e outras marcas em transição.  
+   A maioria dos clientes usa roteador próprio, sem acesso do provedor.
+
+8. Prestam suporte a repetidores?  
+R: Não, indicam profissional. Se insatisfeito, podem abrir OS para técnico tentar solução.
+
+9. Porta de acesso aos roteadores?  
+R: 2389
+
+10. Usuários e senhas padrão:  
+R:  
+
+   | Equipamento    | Login     | Senhas                      |
+   |---------------|-----------|-----------------------------|
+   | ZYXEL         | supervisor| sejafibraroot1 / sejafibraroot2 |
+   | MERCUSYS AC12G|           | sejafibra / sejafibraroot         |
+   | MERCUSYS MR30 |           | sejafibra. / sejafibraroot1       |
+
+11. Pode informar senha ao cliente?  
+R: Não.
+
+12. Tratativas para reset?  
+R: Auxiliam reconfiguração via PPPoE. Se não habilitar acesso remoto, encaminham técnico.
+
+13. Cobrança para abrir OS para trocar senha?  
+R: Não.
+
+14. DNS padrão?  
+R: 1.1.1.1 e 1.0.0.1
+
+15. Suporte N2 ou direto N3?  
+R: Somente N3, casos graves sinalizados no grupo do provedor.
+
+16. Clientes que insistem em visita técnica:  
+R: Podem encaminhar a N3 para evitar insatisfação, sinalizar no grupo.
+
+17. Não abrem OS para clientes bloqueados ou Outras Demandas.
+
+18. Falta de interação para clientes desconectados:  
+R: Abrir N3.
+
+19. Prazo de atendimento:  
+R: 24h corridas em dias úteis, 48h corridas em finais de semana.
+
+20. Plantão finais de semana e feriado:  
+R: Domingo a domingo, 08h às 20h manutenções; plantão massivas 24h.
+
+21. Visita técnica improdutiva:  
+R: Sem custo. Caso equipamento danificado, cobram valor dele.  
+   Não informar taxa; se cliente insistir, abrir N3 sem informar taxa.
+
+22. Forma de pagamento (visita, mudança de ponto):  
+R: Colocado no boleto ou parcelado no cartão.
+
+23. IPTV e suporte:  
+R: Não prestam suporte; orientam conforme ANATEL.
+
+24. IPV6:  
+R: Sim.
+
+25. IP fixo:  
+R: Sim, transferir ao setor Contratar no horário e abrir OS de Outras Demandas fora dele.
+
+26. Mudança de ponto/instalação:  
+R: Estudado caso a caso, abrir OS de Outras Demandas.
+
+27. Mudança de endereço:  
+R: Abrir OS de Outras Demandas.
+
+---
+
+### FINANCEIRO E COMERCIAL
+
+28. Cobrança terceirizada:  
+R: MG Cobranças atende o provedor.
+
+29. Pausa ou religue de contrato:  
+R: Abrir outras demandas, enviar para provedor. Se financeiro em dia, desbloquear.
+
+30. Envio de fatura:  
+R: Sim, priorizar emitir 2ª via pelo bot no chat.
+
+31. Desbloqueio de confiança:  
+R: Não realizam.
+
+32. Bloqueio:  
+R: Após 30 dias de atraso. Cliente bloqueado perde acesso aos apps.
+
+33. Redução de velocidade:  
+R: Sim, após 15 dias.  
+   Clientes mantêm 100 Mbps mesmo com redução.
+
+34. Métodos de pagamento:  
+R: Boleto, PIX ou cartão no escritório.
+
+35. Comprovante de pagamento:  
+R: Não é necessário anexar.
+
+36. Cancelamento:  
+R: Clientes com telefone cadastrado podem cancelar por telefone ou chat.  
+   Sem telefone, enviar documentos e transferir para Cancelamento.
+
+37. Sinalizar casos de retenção mal sucedida e ações adotadas.
+
+---
+
+### INFORMAÇÕES DA EMPRESA
+
+38. Central do Assinante:  
+https://ixc.vitortelecom.com.br/central_assinante_web/login  
+Usuário: e-mail cadastrado  
+Senha: 1 ao 5
+
+39. Endereços:  
+- Ubatuba: Rua Maria de Lourdes Peres dos Santos, 174, Bairro Estufa 1  
+- Caraguatatuba: Rua Sebastião Nepomuceno, 96 - Sumaré
+
+40. Horários de atendimento (loja):  
+Segunda a sexta: 08h às 17h  
+Sábados: 08h às 11h30
+
+41. Horários de atendimento (suporte interno):  
+Segunda a sexta: 08h às 17h  
+Sábados: 08h às 12h e 14h às 18h
+
+42. Telefone:  
+(12) 3197-1699
+
+43. Site:  
+https://sejafibra.net/
+
+---
+
+### APP Seja Fibra Play
+
+44. Plataforma digital de canais ao vivo.
+
+45. Disponível para Android, iOS, TV (Android/iOS compatível) e navegadores.
+
+46. Links para download:  
+- Android: https://play.google.com/store/apps/details?id=br.com.multtv.sejafibraplaymobile  
+- iOS: https://apps.apple.com/br/app/seja-fibra-play/id6473738580  
+- Navegador: https://play.sejafibra.net/
+
+47. Usuário e senha do app: mesmos do central do assinante.
+
+---
+
+FIM DO FAQ Seja Fibra

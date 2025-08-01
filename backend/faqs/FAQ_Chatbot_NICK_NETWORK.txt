@@ -1,0 +1,142 @@
+NICK NETWORK - FAQ Chatbot
+
+1. Qual o horário de atendimento da UpCall?  
+R: Segunda à sexta: 18h às 08h  
+   Sábados: 00h às 09h e 13h às 08h de segunda
+
+2. A empresa possui atendimento presencial?  
+R: Sim, nas cidades: Jacarezinho, Santo Antônio da Platina, Andirá, Ribeirão Claro e Barra do Jacaré
+
+3. Quais os endereços?  
+R: Jacarezinho: Av. Getúlio Vargas, 1155, Centro  
+    Santo Antônio da Platina: Rua Marechal Floriano Peixoto, 171, sala 01, Centro  
+    Andirá: Rua Pará, 166, Centro
+
+4. Quais os telefones e contatos?  
+R: Telefone: 0800 525 5930  
+    WhatsApp Suporte: (43) 99195-5930 e (43) 9952-4340  
+    Atendimento: (43) 99140-4641  
+    Financeiro: (43) 99900-2331
+
+5. Qual o site da empresa?  
+R: https://www.nicknetwork.com.br/
+
+6. Redes sociais:  
+R: Facebook: https://www.facebook.com/nick.network.oficial  
+    Instagram: https://www.instagram.com/nick.network.oficial/
+
+7. Qual o horário comercial?  
+R: Segunda a sexta: 08:30 às 18:00  
+    Sábado: 09:00 às 13:00
+
+8. Quais tecnologias são oferecidas?  
+R: Internet e telefonia. Serviços de TV e e-book em implantação.
+
+9. Quais planos são vendidos?  
+R: Internet residencial e corporativo: 100MB, 300MB e 500MB  
+    Telefonia: essencial e completo  
+    Planos combo: internet + telefonia completo (100, 300 e 500MB)  
+    Plano dedicado a partir de 50MB mediante orçamento
+
+10. Quais cidades/bairros são atendidos?  
+R: Jacarezinho, Santo Antônio da Platina, Ribeirão Claro, Andirá, Barra do Jacaré (todos no Paraná)  
+    Atende todos bairros exceto região rural (exceto Jacarezinho que atende bairro Zona Rural)
+
+11. Quais equipamentos utilizados?  
+R: ONU/ONT Fiberhome e roteadores comodato (marcas variadas)
+
+12. Presta suporte a repetidores?  
+R: Não
+
+13. Presta suporte a câmeras?  
+R: Não
+
+14. Qual a porta de acesso aos equipamentos?  
+R: ONU: porta 80  
+    Roteadores com acesso remoto: porta 8082
+
+15. Usuário e senha padrão dos equipamentos?  
+R: ONU: usuário admin, senha redbull1  
+    Roteador: usuário admin, senha nicknet01 ou nicknet1
+
+16. É possível informar ao cliente a senha do roteador?  
+R: Sim, se tivermos acesso ou documento. Senha da ONU não informamos.
+
+17. Se for necessário abrir OS para trocar senha, é cobrado? Qual valor?  
+R: Cliente pode levar roteador para loja sem custo (Jacarezinho, Santo Antônio da Platina, Andirá)  
+    Em Ribeirão Claro e Barra do Jacaré, se for comodato, sem custo  
+    Equipamento do cliente: taxa de R$ 70,00 para configuração/deslocamento
+
+18. Qual site utilizar para teste de velocidade?  
+R: https://www.nperf.com/pt/
+
+19. Garantem toda a banda contratada via WiFi?  
+R: Não. O teste ideal é feito via cabo.
+
+20. Qual DNS padrão?  
+R: 186.251.14.138 e 186.251.14.139
+
+21. Quais as tratativas para reset?  
+R: Se o equipamento foi resetado, enviamos técnico no local.
+
+22. Existe suporte N2 ou pode enviar direto para N3?  
+R: Existe N2.
+
+23. Qual prazo de atendimento do suporte?  
+R: Residencial: até 48 horas  
+    Corporativo: até 24 horas  
+    Dedicado: até 6 horas
+
+24. Existe setor de agendamento ou técnico vai direto?  
+R: Existe responsável pela agenda dos técnicos.
+
+25. Qual o custo da visita técnica improdutiva?  
+R: R$ 30,00
+
+26. Tem plantão aos finais de semana e feriados?  
+R: Não, mas o responsável pode ser acionado em casos generalizados.
+
+27. Qual a forma de pagamento para visita técnica e mudança de ponto?  
+R: Pix, cartão, ou valor adicionado ao boleto da internet
+
+28. A empresa trabalha com IPTV? Presta suporte?  
+R: Ainda não e não presta suporte.
+
+29. A empresa fornece IP Fixo? Qual valor?  
+R: Sim, R$ 50,00/mês
+
+30. Mudança de ponto ou endereço, como proceder?  
+R: Tratativa feita pelo setor comercial: (43) 99140-4641
+
+31. Podemos enviar fatura?  
+R: Não. Cliente deve pegar a fatura no aplicativo ou Central do Assinante:  
+    - App: https://app.nicknetwork.com.br/  
+    - Central: http://central.nicknetwork.com.br/
+
+32. Com quantos dias ocorre o bloqueio?  
+R: 19 dias: sinal suspenso parcialmente  
+    49 dias: sinal suspenso completamente
+
+33. Podemos fazer desbloqueio de confiança?  
+R: Não. Cliente pode fazer desbloqueio no app ou central.  
+    Só é possível uma vez a cada 180 dias.
+
+34. Por quantos dias a conexão é liberada no desbloqueio?  
+R: 4 dias
+
+35. Possui redução de velocidade?  
+R: Sim, após 19 dias do vencimento, reduz para 100k
+
+36. Quais métodos de pagamento da fatura?  
+R: Código de barras e Pix QR code
+
+37. Procedimento para comprovante de pagamento?  
+R: Sistema reconhece pagamento em até 30 minutos (Pix) ou até 48h (código de barras)  
+    Cliente pode fazer desbloqueio via app se disponível.
+
+38. Como prosseguir em casos de cancelamento?  
+R: Direcionar para setor financeiro: (43) 99900-2331
+
+---
+
+FIM DO FAQ NICK NETWORK

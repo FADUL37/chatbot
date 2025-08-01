@@ -1,0 +1,201 @@
+AVIANET – FAQ Chatbot (Pergunta & Resposta)
+
+1. [Horário de Atendimento]
+Q: Qual o horário de atendimento da AVIANET (UPCALL)?
+A:
+- Segunda a Sexta: 00h00 às 08h00 e 20h00 às 00h00
+- Sábado: 18h00 às 00h00
+- Domingo: 24h (00h00 às 23h59)
+(Somente ligações)
+
+2. [Tecnologias Oferecidas]
+Q: Quais tecnologias a AVIANET oferece?
+A:
+- Fibra óptica (há alguns rádios antigos, mas não são mais comercializados)
+
+3. [Planos Comercializados]
+Q: Quais são os planos disponíveis da AVIANET?
+A:
+- 500 MB
+- 600 MB
+- 800 MB
+
+4. [Áreas de Cobertura]
+Q: Em quais cidades/bairros a AVIANET atua?
+A:
+- Lins/SP, Guaiçara/SP, Sabino/SP, Promissão/SP (toda a cidade)
+
+5. [Equipamentos Utilizados]
+Q: Quais equipamentos a AVIANET utiliza?
+A:
+- Integradas: modem e roteador no mesmo equipamento
+- ONU GPON 1GE WiFi6 Zyxel AX3000
+- ONU GPON 1GE WiFi6 ZX3000 F6600P ZTE
+- Roteador Huawei AX2 WS7001
+- Roteador TP-Link EX511 AX3000 WiFi6
+- Roteador Zyxel EX3220 T0
+
+6. [Suporte a Equipamentos]
+Q: A AVIANET presta suporte a repetidores ou câmeras?
+A:
+- Repetidores: somente com visita técnica (pelo telefone, apenas reiniciar)
+- Câmeras: não, abrir atendimento para análise interna
+
+7. [Acesso e Senha de Roteador]
+Q: É possível acessar ou informar senha do roteador?
+A:
+- Não, somente equipe interna pode acessar ou alterar. Não terá acesso aos roteadores.
+
+8. [Troca de senha do roteador]
+Q: Troca de senha do roteador é cobrada?
+A:
+- Não é cobrado. É necessário abrir atendimento.
+
+9. [Teste de Velocidade]
+Q: Quais sites usar para testar a velocidade?
+A:
+- www.speedtest.net
+- www.fast.com
+- www.nperf.com
+
+10. [Garantia de Velocidade]
+Q: A velocidade contratada é garantida no WiFi?
+A:
+- O equipamento suporta a velocidade pelo WiFi, mas depende do dispositivo do cliente.
+
+11. [DNS Padrão]
+Q: Qual o DNS padrão da AVIANET?
+A:
+- 201.182.120.3
+- 201.182.120.5
+- 1.1.1.1
+
+12. [Reset de Equipamento]
+Q: Posso resetar o equipamento?
+A:
+- Não realizar reset, pois o equipamento não tem auto-provisionamento.
+
+13. [Escalonamento de Atendimento]
+Q: Existe suporte N2 ou N3?
+A:
+- Não utilizam N2/N3. A UpCall faz apenas N1. Se não resolver, encaminhe o atendimento aberto no HubSoft para próxima tarefa no UPSOFT.
+
+14. [Prazo de Atendimento Técnico]
+Q: Qual o prazo de atendimento do suporte?
+A:
+- 24 horas ou próximo dia útil, exceto domingo (apenas clientes sem conexão).
+
+15. [Agendamento e Visita Técnica]
+Q: Precisa agendar visita?
+A:
+- Não há agendamento, abrir atendimento. Equipe interna entra em contato no próximo dia útil.
+
+Q: Qual o custo de visita técnica improdutiva?
+A:
+- Não tem custo.
+
+16. [Plantão Técnico]
+Q: Tem plantão de suporte técnico?
+A:
+- Técnico Externo: Sábado/Feriado 08:30 às 18:00.
+- Não há atendimento aos domingos.
+
+17. [Pagamento de Serviços]
+Q: Quais formas de pagamento para serviços (visita/mudança de ponto)?
+A:
+- Boleto, Cartão, PIX, Dinheiro
+
+18. [IPTV e Apps]
+Q: Trabalham ou dão suporte a IPTV?
+A:
+- Não fornecem IPTV.
+- Para suporte, oriente a reiniciar o tvbox e testar apps conhecidos (YouTube, Netflix).
+- Em caso de problema apenas no IPTV, cliente deve verificar com fornecedor do IPTV.
+- Disponibilizam apenas APPs (HBO/Max) no plano de 800 MB.
+
+19. [IP Fixo]
+Q: Fornecem IP fixo? Valor?
+A:
+- Sim, R$ 100,00/mês
+
+20. [Mudança de ponto/endereço]
+Q: Como solicitar mudança de ponto/endereço?
+A:
+- Abrir atendimento, equipe faz análise e orçamento.
+- Prazo: 3 dias úteis.
+
+21. [Fatura e Bloqueio]
+Q: AVIANET envia fatura?
+A:
+- Sim, sempre confirmar CPF e endereço do cliente.
+
+Q: Com quantos dias ocorre bloqueio após o vencimento?
+A:
+- 15 dias corridos.
+
+Q: Pode fazer desbloqueio de confiança?
+A:
+- Sim, ou cliente pode fazer pela Central/APP.
+
+Q: Por quantos dias a conexão é liberada após comprovante?
+A:
+- 1 dia útil.
+
+Q: Tem redução de velocidade após atraso?
+A:
+- Não.
+
+22. [Pagamento de Fatura]
+Q: Quais formas de pagamento da fatura?
+A:
+- Boleto Bancário, PIX, Cartão de Crédito, Dinheiro nas lojas
+
+Q: Como comprovar pagamento?
+A:
+- Anexar comprovante no atendimento
+
+23. [Cancelamento]
+Q: Como cancelar o serviço?
+A:
+- Abrir atendimento para setor financeiro
+
+24. [Atendimento Presencial e Lojas]
+Q: Tem atendimento presencial? Onde?
+A:
+- Não possui atendimento presencial
+
+Endereços das lojas:
+- Lins: Rua Osvaldo Cruz, 245 - Centro
+- Promissão: Av Pedro de Toledo, 862 - Centro
+- Sabino: Av Sete de Setembro, 640-B - Centro
+- Guaiçara: Rua Osvaldo Cruz, 174 - Centro
+
+Horários das lojas físicas:
+- Segunda a Sexta: 08h às 18h
+- Sábado: 08h às 12h
+- Feriados: Fechadas
+
+25. [Setores e Horários]
+- Visitas Técnicas:
+  - Segunda a Sexta: 08h30 às 18h
+  - Sábado: 08h30 às 18h
+  - Feriados: 08h30 às 18h
+
+- Suporte Técnico:
+  - Segunda a Sexta: 08h às 20h
+  - Sábado: 08h às 18h
+  - Feriados: 08h às 18h
+
+- Financeiro/Comercial:
+  - Segunda a Sexta: 08h às 18h30
+  - Sábado: 08h30 às 12h30
+  - Feriados: Sem expediente
+
+26. [Contatos]
+Q: Quais os contatos da AVIANET?
+A:
+- Telefone: (14) 3523-3266 / (14) 3525-0200
+- WhatsApp: (14) 3523-3266
+- Central do Assinante: https://central.avianet.com.br/ (Login: CPF)
+- Site: https://www.avianet.com.br
+- E-mail: contato@avianet.com.br

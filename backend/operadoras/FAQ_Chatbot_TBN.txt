@@ -1,0 +1,145 @@
+TBN - FAQ Chatbot
+
+1. Qual o horário de atendimento da UpCall?  
+R:  
+   - Sábados: 12h às 23h59  
+   - Domingos e feriados: 00h às 23h59
+
+2. Observação sobre clientes:  
+R: Clientes Fibrasil e Rede Neutra aparecem sempre desconectados.  
+   Verificar no IXC em Editar Cliente > Tipo Cliente.
+
+3. Quais tecnologias oferecidas?  
+R: Rádio, Fibra, VoIP.
+
+4. Planos vendidos:  
+R: Atendimento comercial em fila, assumido por vendedor de plantão.
+
+5. Cidades/bairros atendidos:  
+R: Jataí, Israelândia, Aporé, Iporá.
+
+6. Equipamentos utilizados:  
+R: ZTE F6600P, F670L V1 e V9, TP-Link Archer C5.
+
+7. Presta suporte a repetidores?  
+R: Não.
+
+8. Presta suporte a câmeras?  
+R: Não.
+
+9. Porta de acesso aos roteadores:  
+R: 123.
+
+10. Usuário e senha padrão:  
+R: multipro/#Tbn123, multipro/multipro, root/rootdesk.
+
+11. Informar senha ao cliente?  
+R: Não.
+
+12. Se não for possível trocar senha e abrir OS, é cobrado?  
+R: Não. Abrir atendimento para setor NOC.
+
+13. Site utilizado para teste de velocidade:  
+R: Okhla Speed Test.
+
+14. Garantem toda a banda por WiFi?  
+R: Não, depende do dispositivo.
+
+15. DNS padrão:  
+R: 45.237.120.210 e 45.237.120.211.
+
+16. Tratativas para reset:  
+R: Não temos.
+
+17. Existe suporte N2 ou direto para N3?  
+R: Utilizam nomenclaturas próprias. Demandas técnicas vão para NOC.  
+   Financeiro e demais setores transferidos conforme necessidade.  
+   Agendamentos comunicar no grupo.
+
+18. Prazo de atendimento:  
+R: 24 horas.
+
+19. Existe setor de agendamento ou técnico vai direto?  
+R: Técnico vai direto.
+
+20. Custo visita técnica improdutiva:  
+R: Sem custo.
+
+21. Tem plantão finais de semana e feriado?  
+R: Sim.
+
+22. Forma de pagamento para serviços (visita, mudança de ponto):  
+R: Não tem custo.
+
+23. A empresa trabalha com IPTV?  
+R: Não.
+
+24. A empresa fornece IP fixo? Valor?  
+R: Sim, somente planos corporativos, a partir de R$ 299.
+
+25. Mudança de ponto/instalação:  
+R: Abrir atendimento para setor NOC com prioridade crítica.
+
+26. Mudança de endereço:  
+R: Abrir atendimento para setor NOC com prioridade crítica.
+
+---
+
+### FINANCEIRO E COMERCIAL
+
+27. Podemos enviar fatura?  
+R: Sim.
+
+28. Método de pagamento:  
+R: Pré-pago.
+
+29. Com quantos dias ocorre o bloqueio?  
+R: 5 dias.
+
+30. Podemos fazer desbloqueio de confiança?  
+R: Não. Informar cliente como fazer pelo WhatsApp.
+
+31. Por quantos dias a conexão é liberada?  
+R: 24 horas.
+
+32. Possui redução de velocidade?  
+R: Não.
+
+33. Métodos de pagamento da fatura:  
+R: Boleto e Pix.
+
+34. Procedimento para comprovante de pagamento:  
+R: Não disponível.
+
+35. Como prosseguir em casos de cancelamento?  
+R: Abrir atendimento para NOC.
+
+---
+
+### INFORMAÇÕES DA EMPRESA
+
+36. Possui atendimento presencial?  
+R: Sim.
+
+37. Endereço:  
+R: Rua Dr. Plinio Camargo, 471 - Setor Santo Antônio.
+
+38. Horários de atendimento:  
+R:  
+   - Lojas físicas: 08h00 às 11h30 / 13h30 às 18h00  
+   - Visitas técnicas: 08h00 às 11h30 / 13h30 às 20h00  
+   - Suporte técnico: 24 horas  
+   - Financeiro/Comercial: 24 horas
+
+39. Contatos:  
+R:  
+   - Telefone: (64) 3051-6601  
+   - WhatsApp: (64) 99283-4153  
+   - Central do Assinante: https://ixc.tbntelecom.com.br/central_assinante_web/login  
+   - Login e senha: pegar no cadastro do cliente no IXC  
+   - Site: www.tbntelecom.com.br  
+   - E-mail: contato@tbntelecom.com.br
+
+---
+
+FIM DO FAQ TBN

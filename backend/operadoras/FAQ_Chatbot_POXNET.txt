@@ -1,0 +1,136 @@
+POXNET - FAQ Chatbot
+
+1. Qual o horário de atendimento da UpCall?  
+R: UPSOFT - OK  
+   Atendimento suporte 24 horas  
+   Atendimento Comercial: seg a sex 8h às 22h, sáb 8h às 16h, dom 9h às 18h  
+   Atendimento Financeiro: seg a sex 8h às 18h, sáb 8h às 18h  
+   Renovação: seg a sex 9h às 18h, sáb 8h às 12h (não atua domingo)  
+   Financeiro e Retenção: seg a sex 8h às 18h, sáb 8h às 12h (não atua domingos e feriados)
+
+2. A empresa possui atendimento presencial?  
+R: Sim.
+
+3. Quais os contatos?  
+R: Telefones: (15) 3331-6565, (15) 3232-3652  
+   WhatsApp: (15) 3232-3652, (15) 9 9790-8200  
+   Site: https://www.poxnet.com.br/  
+   Central do Assinante: https://www.poxnet.com.br/cliente (Login: email do titular / Senha: CPF do titular)
+
+4. Endereços:  
+R: Matriz: Av. Gen. Osório, 655 - Trujilo, Sorocaba - SP, 18060-501  
+   Filial: Rua Francisco de Barros Leite, 664 - Jardim Aurea, Salto de Pirapora - SP, 18160-000
+
+5. Quais tecnologias são oferecidas?  
+R: Internet via fibra óptica, link empresarial e residencial, serviços de TV Stream e plataforma de cursos.
+
+6. Quais os planos vendidos?  
+R: Consultar com o departamento comercial.  
+   Não encerrar atendimentos de contratação no chat, informar horário e transferir para comercial.
+
+7. Quais cidades/bairros atendidos?  
+R: Sorocaba, Votorantim, Salto de Pirapora, Iperó e Araçoiaba da Serra.
+
+8. Quais equipamentos utilizados?  
+R: Modem ONU Intragrada e roteador.
+
+9. Presta suporte a repetidores?  
+R: Somente no plano com ponto adicional. Repetidor particular não tem suporte.
+
+10. Presta suporte a câmeras?  
+R: Não.
+
+11. Portas de acesso aos roteadores?  
+R: 80, 8080, 8181 e 8182.
+
+12. Usuário e senha padrão para equipamentos?  
+R: ONU ZTE: user multipro / pwd multipro  
+    ONU CIANET: user adminisp / pwd adminisp  
+    Outros aparelhos com quantidades inferiores.
+
+13. É possível informar senha do roteador ao cliente?  
+R: Não, acesso exclusivo do provedor e profissionais capacitados.
+
+14. Se for necessário abrir OS para trocar senha, é cobrado? Qual valor?  
+R: Não, existe alternativa com time interno.
+
+15. Sites para teste de velocidade?  
+R: https://www.minhaconexao.com.br/?server_id=005936  
+    fast.com
+
+16. Garantem toda a banda contratada via WiFi?  
+R: Não, somente via cabo.
+
+17. Qual DNS padrão?  
+R: Principal: 177.86.16.9  
+    Secundário: 8.8.8.8
+
+18. Tratativas para reset?  
+R: Apenas reinício do aparelho.
+
+19. Existe suporte N2 ou pode enviar direto para N3?  
+R: Empresas com contratos Bridge sem PPPoE.
+
+20. Prazo de atendimento do suporte:  
+R: Corporativo: 4 horas a partir da abertura do chamado  
+    Residencial: 48 horas (conforme Anatel, agendamento em até 24 horas)
+
+21. Existe setor de agendamento ou técnico vai direto?  
+R: Suporte agenda ordens do departamento técnico. Comercial e financeiro possuem setor próprio.
+
+22. Custo da visita técnica improdutiva?  
+R: R$ 85,00
+
+23. Tem plantão finais de semana e feriado?  
+R: Equipe técnica 12x36, 3 operando em Sorocaba/região e 1 em Salto.
+
+24. Forma de pagamento para serviços?  
+R: Direto na fatura, podendo ser dividido com negociação.
+
+25. A empresa trabalha com IPTV? Presta suporte?  
+R: Tem serviço de TV Stream por app. Serviços terceiros ou TVBox não recebem suporte.
+
+26. A empresa fornece IP Fixo? Qual valor?  
+R: Apenas no plano corporativo Full, valores sob negociação.
+
+27. Mudança de ponto ou instalação, como proceder?  
+R: Mudança: encaminhar ordem de serviço para setor de agendamento  
+    Instalação: indicar canais para comercial fazer lead  
+    Valores informados pelo setor responsável.
+
+28. Mudança de endereço?  
+R: Encaminhar ordem de serviço para setor de agendamento.
+
+29. Podemos enviar fatura?  
+R: Não.
+
+30. Como acessar boletos?  
+R: Departamento Financeiro via chat  
+    Site poxnet.com.br > área do cliente > 2ª via boletos  
+    Canal OPA (chat) via celular (WhatsApp)
+
+31. Com quantos dias ocorre bloqueio?  
+R: 30 dias
+
+32. Podemos fazer desbloqueio de confiança?  
+R: Não, somente via central do assinante pelo cliente.  
+    Prazo de 90 dias para novo desbloqueio.
+
+33. Por quantos dias a conexão é liberada?  
+R: 4 dias
+
+34. Possui redução de velocidade?  
+R: Sim, após 15 dias de atraso.
+
+35. Métodos de pagamento?  
+R: Pix e boleto
+
+36. Procedimento para comprovante de pagamento?  
+R: Cliente deve contatar departamento financeiro.
+
+37. Como prosseguir em casos de cancelamento?  
+R: Cliente deve contatar departamento financeiro no horário comercial.
+
+---
+
+FIM DO FAQ POXNET

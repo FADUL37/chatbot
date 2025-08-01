@@ -1,0 +1,144 @@
+CENTRAL TELECOM – FAQ Chatbot (Pergunta & Resposta)
+
+1. [Horário de Atendimento]
+Q: Qual o horário de atendimento da Central Telecom (UPCALL)?
+A:
+
+2. [Tecnologias Oferecidas]
+Q: Quais tecnologias a Central Telecom oferece?
+A:
+
+3. [Planos Comercializados]
+Q: Quais são os planos da Central Telecom?
+A:
+
+4. [Contratação]
+Q: Como prosseguir com contratações?
+A:
+
+5. [Áreas de Cobertura]
+Q: Em quais cidades/bairros a Central Telecom atua?
+A:
+
+6. [Equipamentos Utilizados]
+Q: Quais os equipamentos utilizados?
+A:
+
+7. [Repetidores]
+Q: Presta suporte a repetidores?
+A:
+
+8. [Câmeras]
+Q: Presta suporte a câmeras?
+A:
+
+9. [Acesso aos Roteadores]
+Q: Qual a porta de acesso aos roteadores?
+A:
+
+10. [Usuário e Senha Padrão]
+Q: Qual usuário e senha padrão dos equipamentos?
+A:
+
+11. [Informar Senha ao Cliente]
+Q: É possível informar ao cliente a senha do roteador?
+A:
+
+12. [Troca de Senha – OS]
+Q: Se não tivermos acesso para trocar a senha e for necessário abrir OS, é cobrado? Qual valor?
+A:
+
+13. [Teste de Velocidade]
+Q: Qual site utilizado para teste de velocidade?
+A:
+
+14. [Garantia de Banda via WiFi]
+Q: Garantem toda a banda contratada no WiFi?
+A:
+
+15. [DNS Padrão]
+Q: Qual DNS padrão?
+A:
+
+16. [Nível de Sinal Ideal]
+Q: Qual o nível de sinal ideal?
+A:
+
+17. [Reset de Equipamento]
+Q: Quais as tratativas para reset?
+A:
+
+18. [Suporte N2/N3]
+Q: Existe suporte N2 ou pode enviar direto para N3?
+A:
+
+19. [Prazo de Atendimento do Suporte]
+Q: Qual o prazo de atendimento do suporte?
+A:
+
+20. [Agendamento/Visita Técnica]
+Q: Existe setor de agendamento ou técnico vai direto?
+A:
+
+21. [Custo de Visita Técnica Improdutiva]
+Q: Qual o custo da visita técnica improdutiva?
+A:
+
+22. [Plantão de Fim de Semana e Feriado]
+Q: Tem plantão aos finais de semana/feriado?
+A:
+
+23. [Pagamento de Serviços]
+Q: Qual a forma de pagamento de serviços como visita técnica e mudança de ponto?
+A:
+
+24. [IPTV]
+Q: Trabalha/presta suporte a IPTV?
+A:
+
+25. [IP Fixo]
+Q: Fornece IP fixo? Qual valor?
+A:
+
+26. [Mudança de Ponto/Endereço]
+Q: Mudança de ponto/endereço: como proceder?
+A:
+
+27. [Financeiro & Comercial]
+Q: Pode enviar fatura?
+A:
+Q: Com quantos dias ocorre o bloqueio?
+A:
+Q: Desbloqueio de confiança?
+A:
+Q: Por quantos dias a conexão é liberada?
+A:
+Q: Possui redução de velocidade?
+A:
+Q: Quais métodos de pagamento da fatura?
+A:
+Q: Como enviar comprovante de pagamento?
+A:
+Q: Cancelamento: como prosseguir?
+A:
+
+28. [Atendimento Presencial e Endereços]
+Q: Tem atendimento presencial? Onde?
+A:
+
+29. [Horários dos Setores]
+- Lojas Físicas:
+- Visitas Técnicas:
+- Suporte Técnico:
+- Financeiro/Comercial:
+
+30. [Contatos]
+Q: Como falar com a Central Telecom?
+A:
+- Telefone:
+- WhatsApp:
+- Central do Assinante (URL):
+- Login:
+- Senha:
+- Site:
+- E-mail:

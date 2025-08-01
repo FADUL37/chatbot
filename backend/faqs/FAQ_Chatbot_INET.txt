@@ -1,0 +1,147 @@
+
+INET
+
+Horário de Atendimento da UPCALL (GMT -3)
+
+ERP    CHAT
+
+Quais as tecnologias oferecidas pela empresa?
+R:
+
+Quais os planos vendidos na empresa?
+R:
+
+Como prosseguir com contratações?
+R:
+
+Quais cidades/bairros de atuação?
+R:
+
+Quais equipamentos utilizados?
+R:
+
+Presta suporte a repetidores?
+R:
+
+Presta suporte a câmeras?
+R:
+
+Qual a porta de acesso para acesso aos roteadores?
+R:
+
+Qual usuário e senha padrão para acesso aos equipamentos?
+R:
+
+É possível informar ao cliente a senha do roteador?
+R:
+
+Se não tivermos acesso para trocar a senha e seja necessário abrir OS, é cobrado e qual valor?
+R:
+
+Qual o site utilizado para testes de velocidade?
+R:
+
+Garantem toda a banda contratada passada por WiFi?
+R:
+
+Qual DNS padrão?
+R:
+
+Qual o nível de sinal ideal?
+R:
+
+Quais são as tratativas para reset?
+R:
+
+Existe tratativa de suporte N2 ou podemos enviar direto para N3?
+R: Sim, existem ambos. Contudo, o provedor utiliza outra denominação para os encaminhamentos.
+N2 = Visita Técnica Interna (Troca de Senha, Configuração Interna no CPE, etc.)
+N3 = Visita Técnica Externa (Link Loss, Equipamento Desprovisionado/Danificado, etc.)
+
+Qual prazo de atendimento do Suporte, residencial e corporativo?
+R:
+
+Existe setor de Agendamento ou Técnico vai direto?
+R:
+
+Qual o custo da visita técnica caso seja improdutiva?
+R:
+
+Tem plantão aos finais de semana e feriado?
+R:
+
+Qual é a forma de pagamento de serviços como visita técnica e mudança de ponto?
+R:
+
+A empresa trabalha com IPTV? E presta suporte do mesmo?
+R:
+
+A empresa fornece IP Fixo? Qual valor?
+R:
+
+Mudança de ponto no mesmo local, instalação de novo ponto, a UpCall pode abrir os? Se sim, quais os valores? Se não, para onde enviar?
+R:
+
+Mudança de Endereço
+R:
+
+FINANCEIRO E COMERCIAL
+
+Podemos enviar fatura?
+R:
+
+Com quantos dias ocorre o bloqueio?
+R:
+
+Podemos fazer o desbloqueio de confiança?
+R:
+
+Por quantos dias a conexão é liberada?
+R:
+
+Possui redução de velocidade?
+R:
+
+Qual métodos de pagamentos da fatura?
+R:
+
+Qual o procedimento para comprovante de pagamento?
+R: Abrir solicitação com destino ENCAMINHAR COMPROVANTE DE PAGAMENTO
+
+Como prosseguir em casos de cancelamento?
+R:
+
+INFORMAÇÕES DA EMPRESA
+
+Possui atendimento presencial?
+R:
+
+ENDEREÇOS
+
+HORÁRIOS DE ATENDIMENTO
+
+LOJAS FÍSICAS
+
+VISITAS TÉCNICAS
+
+SUPORTE TÉCNICO
+
+FINANCEIRO / COMERCIAL
+
+CONTATOS
+
+TELEFONE
+
+WHATSAPP
+
+CENTRAL DO ASSINANTE
+
+URL
+
+LOGIN
+
+SENHA
+
+SITE
+
+E-MAIL

@@ -1,0 +1,169 @@
+CENSANET – FAQ Chatbot (Pergunta & Resposta)
+
+1. [Horário de Atendimento]
+Q: Qual o horário de atendimento da CENSANET (UPCALL)?
+A: Segunda à Segunda das 20h às 07h (Chat e ligações)
+
+2. [Tecnologias Oferecidas]
+Q: Quais tecnologias a CENSANET oferece?
+A:
+- FTTH (fibra óptica até a casa)
+- FTTB (híbrida em prédios: ONU por andar + UTP no apê)
+
+3. [Planos Comercializados]
+Q: Quais são os planos da CENSANET?
+A: 300, 450 e 600 MB
+
+4. [Áreas de Cobertura]
+Q: Em quais bairros/cidades a CENSANET atua?
+A:
+- Rede em grande parte de Campos dos Goytacazes (RJ), exceto alguns bairros: Travessão, Penha, Goytacazes, Ururaí, Tapera, Pq Aldeira, Canaã, entre outros.
+- Sempre confirmar viabilidade informando o endereço para equipe.
+
+5. [Equipamentos Utilizados]
+Q: Quais equipamentos a CENSANET utiliza?
+A:
+- BNG Juniper
+- ERP IXC
+- Rede PON neutra Forte Infraco
+- ONUs Parks, Huawei...
+- Roteadores/ONT: TP-Link, Intelbras, D-Link, Multilaser...
+
+6. [Suporte a Repetidores/Câmeras]
+Q: Presta suporte a repetidores ou câmeras?
+A: Não
+
+7. [Acesso aos Roteadores]
+Q: Qual porta de acesso aos roteadores?
+A: 32, 3232, 80 ou 8080
+Exemplo: 100.10.10.1:3232
+
+8. [Usuário e Senha Padrão]
+Q: Qual usuário e senha padrão?
+A:
+- Geralmente são os 6 últimos números do MAC, diminuindo o último caractere
+- Alternativa: CN37#123456
+- ONT: IP + porta + /superadmin (ex: 100.1.1.1:32/superadmin)
+
+9. [Senha do Roteador]
+Q: Pode informar a senha do roteador ao cliente?
+A: Não, para garantir o acesso remoto pela equipe
+
+10. [Reset/Troca de Senha/Visita Técnica]
+Q: Como proceder em caso de reset?
+A:
+- Se resetar: só com visita técnica local para reconfiguração
+Q: Precisa abrir OS para troca de senha?
+A:
+- Se roteador da empresa: visita sem custo
+- Se roteador do cliente: orientado a buscar técnico próprio
+
+11. [Teste de Velocidade]
+Q: Qual site usar para testar a velocidade?
+A:
+- www.speedtest.net
+- www.nperf.com
+
+12. [Garantia de Velocidade]
+Q: Garantem toda a banda contratada no WiFi?
+A: Sim, geralmente na rede 5GHz. Importante: só a 5GHz entrega a banda máxima (especialmente planos acima de 100MB)
+
+13. [DNS Padrão]
+Q: Qual o DNS padrão?
+A:
+- 186.237.49.21
+- 8.8.8.8
+
+14. [Reset de Equipamento]
+Q: Quais as tratativas para reset?
+A: Em caso de reset, é obrigatória a visita técnica para reconfiguração
+
+15. [Suporte N2/N3]
+Q: Como funciona o suporte avançado?
+A:
+- N2: resolução remota (PON piscando, sem acesso, lentidão)
+- Visita Técnica: problemas físicos (LOS, potência ruim, equipamento danificado)
+
+16. [Falta de Interação]
+Q: Como agir se cliente não responde ou está desconectado?
+A: Gerar N2 para retorno do provedor em outro período
+
+17. [Prazos de Atendimento]
+Q: Qual prazo do suporte?
+A:
+- Residencial: 48h
+- Empresarial: 12h
+- Corporativo: 4h
+
+18. [Agendamento e Visita Técnica]
+Q: Como funciona o agendamento?
+A: Visita é aberta e encaminhada pelo setor responsável (verificado pela manhã)
+
+19. [Custo da Visita Técnica]
+Q: Tem custo de visita improdutiva?
+A: Não cobra, mesmo improdutiva
+
+20. [Plantão e Suporte]
+Q: Tem plantão fins de semana e feriado?
+A:
+- Suporte Interno: seg a dom, 7h às 20h
+- Suporte Externo: seg a sex, 8h às 18h; sábado, 8h às 17h
+- Domingo/feriado: só emergência (equipe de sobreaviso)
+
+21. [Pagamento de Serviços]
+Q: Como funciona pagamento por visita/mudança?
+A: Tratado direto com o setor administrativo
+
+22. [IPTV]
+Q: Trabalha ou dá suporte a IPTV?
+A: Não
+
+23. [IP Fixo]
+Q: Fornece IP fixo?
+A: Sim, precisa acionar o setor administrativo
+
+24. [Mudança de Ponto/Endereço]
+Q: Como funciona mudança de ponto/endereço?
+A:
+- Não pode abrir OS, somente atendimento para setor administrativo entrar em contato
+- Sempre orientar cliente a falar direto com administrativo
+
+25. [Financeiro & Comercial – Fatura, Bloqueio, Pagamento]
+Q: Pode enviar fatura?
+A: Sim, basta confirmar mês desejado
+Q: Com quantos dias ocorre o bloqueio?
+A: Após 40 dias de atraso
+Q: Desbloqueio de confiança?
+A: Sim, mediante comprovante
+Q: Por quantos dias libera após comprovante?
+A: 2 dias
+Q: Possui redução de velocidade?
+A: Sim. Redução a partir do 16º dia após vencimento (exceto sexta/sáb/dom). Bloqueio só após 40 dias
+Q: Quais métodos de pagamento?
+A: Boleto, pix e cartão de crédito (cartão só na loja)
+Q: Como enviar comprovante?
+A: Libere após envio, e-mail para contato@censanet.net.br (com nome e comprovante)
+
+26. [Cancelamento]
+Q: Como cancelar?
+A:
+- Somente pessoalmente ou por e-mail (contato@censanet.net.br) com nome, CPF, RG e motivo
+
+27. [Informações da Empresa, Atendimento, Contato]
+Q: Onde fica a CENSANET? Tem atendimento presencial?
+A:
+- Edifício Transamérica - R. Tenente Coronel Cardoso, 1031 - Loja 4 - Parque Tamandaré, Campos dos Goytacazes - RJ, 28035-042
+
+Q: Como falar com a CENSANET?
+A:
+- Telefone: (22) 3211-0090
+- WhatsApp: (22) 3518-8420
+- Site: https://www.censanet.net.br/
+- Central do Assinante: https://meu.censanet.net.br/central_assinante_web/login
+- Instagram: https://www.instagram.com/censanet?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw==
+- E-mail: contato@censanet.net.br
+
+28. [Horários por Setor]
+- Administrativo: Seg a Sex, 8h às 18h
+- Comercial: Seg a Sex, 8h às 18h
+- Suporte: Seg a Dom, 7h às 20h

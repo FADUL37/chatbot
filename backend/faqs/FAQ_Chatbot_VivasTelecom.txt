@@ -1,0 +1,97 @@
+
+FAQ Vivas Telecom
+
+Horário de atendimento UPCALL (GMT -3)
+- 1 PA Chat e Ligação: 00h às 06h
+- 2 PA Chat: 08h às 16h
+- 2 PA Chat: 16h às 00h
+- UPSOFT em desenvolvimento
+
+Transferências e protocolos
+- Transferir falta de interação com apenas 45 minutos
+- Solicitações por procuradores: obrigatório anexar procuração registrada
+- Clientes do grupo Pinhal Telecom: enviar dados no grupo do provedor
+- Não utilizam transferências para outras demandas que não sejam contratação ou ociosidade, apenas abertura de protocolo pelo Voalle
+
+Tecnologias oferecidas
+- Internet Fibra, Telefonia Fixa e App TV Vivas
+- Problemas com Telefonia Fixa e App TV: encaminhar para UPCALL - TÉCNICO
+
+Planos vendidos
+- Área urbana: 300Mb, 400Mb, 600Mb, 700Mb, 1Gb
+- Área rural: 80Mb, 100Mb, 150Mb
+- Exceções conforme planilha de valores Vivas
+- Solicitar dados do cliente e encaminhar ao setor Contratar ou Comercial
+
+Cidades/bairros atendidos
+- Nazaré Paulista, Santa Branca, Cruzeiro, Jacareí, Lorena, São José dos Campos, Cachoeira Paulista, Guararema, Atibaia, Mogi das Cruzes, Santa Isabel, Igaratá, Caçapava, Arujá, Jarinu, Tremembé, Roseira, Taubaté, Guaratinguetá, Itatiba, Campos do Jordão, Pindamonhangaba, Potim
+
+Equipamentos utilizados
+- Modem, Roteador e Smart Box
+- Acesso aos CPEs não disponível via browser/VPN, apenas software específico ainda não liberado
+
+Suporte
+- Não presta suporte a repetidores e câmeras
+- Troca de senha roteador: depende, geralmente criada nova senha
+- Somente o titular pode solicitar troca de senha
+- Troca de senha sem custo, exceto recorrência
+- Tratativas para reset e suporte técnico via abertura de protocolo no Voalle
+- Teste de velocidade: fast.com
+- Encaminhamento técnico direto à equipe UPCALL - TÉCNICO (sem divisão N2/N3)
+- Prazo de atendimento: até 48h corridas (todas demandas)
+- Agendamento: sábados só manutenções, sem agendamento para mudança/ativação
+- Custo visita técnica improdutiva: informado conforme caso
+- Plantão técnico:
+  - Seg à Qui: 08h às 18h
+  - Sex, Sáb e Dom: 08h às 17h
+
+Formas de pagamento de serviços
+- Nota avulsa enviada por e-mail, possível acessar via app ou site
+
+IPTV
+- Não presta suporte
+
+IP Fixo
+- Disponível, consultar setor Tratativas PJ
+
+Falta de interação
+- Não finalizar atendimento, transferir para setor Ociosidade (exceto Comercial e Contratar)
+
+Mudança de ponto e endereço
+- Mudança de cômodo/ponto: R$50 + taxas por metro de cabo
+- UpCall abre OS para Upgrade/Downgrade
+- Mudança de endereço: Identificação do cliente e confirmação titularidade, instalação gratuita até 200m da CTO, R$2/m excedente
+- Solicitar áudio do titular confirmando concordância (modelo padronizado no UPCHAT)
+- Caso divergência de endereço, solicitar comprovante e abrir protocolo para análise
+
+Troca de titularidade
+- Solicitação feita somente pelo titular via e-mail comercial@vivastelecom.com.br
+- Enviar documentos RG e contrato em dia
+- Em caso de óbito, anexar certidão de óbito
+- Sem boletos em atraso
+
+Mudança de plano
+- Identificação positiva do titular e ausência de faturas em atraso
+- Mensagem padrão para gravação de áudio de autorização no UPCHAT
+- Departamento responsável entrará em contato para informar planos disponíveis
+
+Financeiro e comercial
+- Atendimento financeiro por UPCHAT, abertura de protocolo para descontos, boletos, renegociações etc.
+- Envio de fatura: Sim
+- Bloqueio: 20 dias de atraso
+- Desbloqueio de confiança: Não, exceto URA do Chat/Ligação uma vez a cada 30 dias
+- Liberação com comprovante via chat
+- Conexão liberada por 24h após desbloqueio
+- Sem redução de velocidade
+- Métodos de pagamento: boleto, pix, app com cadastro de cartão de crédito
+- Comprovante pago via chat, verificação de dados e baixa automática
+- Cancelamento: somente titular, sem faturas em atraso, com áudio de autorização
+- Nota fiscal: envio para registro, não é cobrança
+
+Informações da empresa
+- Endereços em Jacareí, Campos do Jordão, Taubaté, Pinda, Itatiba, Igaratá, Jarinu, Santa Isabel, Cachoeira Paulista, São José dos Campos, Atibaia
+- Horários de atendimento (recepção e financeiro): Seg a Qui 8h-18h, Sex 8h-17h
+- Telefone/WhatsApp: (12) 3014-0007
+- Site: https://vivastelecom.com.br/
+- Central do assinante: https://vivas.portal.7az.com.br/login
+- Login e senha: CPF sem pontos ou traços

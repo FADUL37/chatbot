@@ -1,0 +1,145 @@
+DELTA ATIVA (Taió - SC) – FAQ Chatbot (Pergunta & Resposta)
+
+1. [Horário de Atendimento]
+Q: Qual o horário de atendimento da Delta Ativa (UPCALL)?
+A:
+- Segunda a Sábado: 22h às 08h
+- Sábado após 18h
+- Domingo: 24h
+
+2. [Tecnologias Oferecidas]
+Q: Quais tecnologias a Delta Ativa oferece?
+A:
+- Fibra
+- Rádio
+- Canais de TV (ITTV Plus)
+- Telefonia Fixa
+
+3. [Planos Comercializados]
+Q: Quais são os planos?
+A:
+- Residencial: Upload menor, geralmente CGNAT (sem IP público garantido)
+- Premium: IP público, upload igual ao download nos planos 300, 400, 500MB. Nos planos de 700MB e 1GB, upload de 500MB. Suporte e atendimento prioritário.
+- Exemplo: Plano residencial 300MB = 300/50; Plano Premium 300MB = 300/300.
+
+4. [Cobertura]
+Q: Onde a Delta Ativa atende?
+A:
+- Taió
+- Camboriú
+- Ituporanga
+- Ibirama (outra empresa, suporte via 47-3522-7779)
+- Presidente Getúlio (outra empresa, suporte via 47-3522-7779)
+
+5. [Equipamentos Utilizados]
+Q: Quais equipamentos são usados?
+A:
+- ONU NOKIA (G-1425G-A, G-2425G-A, G-2425G-B)
+- Roteadores: TP-Link (EC220-G5, Archer-C5, TL-WR840N), Mercusys AC12-G/AC12, Intelbras RG1200, Huawei ax3
+- Rádio: Antenas Ubiquiti (Litebeam, Airgrid, Nanobeam, Powerbeam etc.)
+
+6. [Porta de Acesso aos Roteadores]
+Q: Qual porta de acesso?
+A:
+- ONU Nokia: 8080 ou https:// (porta :443)
+- Mercusys: 8888
+- Intelbras: 8080, 8089, 8081
+- Outros roteadores: https com porta 8443
+- Rádio: 45810, 45811
+
+7. [Usuário/Senha Padrão]
+Q: Qual usuário/senha padrão?
+A:
+- Geral: Nome do cliente (ex: joaovitordasilva → senha joao, joao1, joaodelta, joao00...)
+- Alguns modelos: admin/admin
+- ONT Nokia - senha master: AdminGPON / ALC#DLTA
+- Rádio Taió/Camboriú: ver tabela detalhada no sistema
+- Obs: Só informe ao cliente se senha for nome registrado e estiver no IXC. Não informar senha de rádio/ONU/master.
+
+8. [Reset e Troca de Senha]
+Q: Pode informar a senha ao cliente?
+A: Sim, só se for nome do cliente registrado no IXC.
+Q: Como funciona troca/reset?
+A: Orientar a levar à loja (não é cobrado). Se for visita técnica, será cobrado.
+
+9. [DNS Padrão]
+Q: Qual DNS padrão?
+A:
+- Taió/Ituporanga: 177.221.67.253 (primário), 177.221.71.253 (secundário)
+- Camboriú: 177.221.71.253 (primário), 177.221.67.253 (secundário)
+
+10. [Nível de Sinal Ideal]
+Q: Qual o sinal ideal?
+A: Entre RX -15 e -30dBm (fora desse, gerar N3)
+
+11. [Suporte N2/N3 e OS]
+Q: Tem N2 e N3?
+A: Sim. Todas as OS devem ser sinalizadas no grupo, informando a cidade.
+
+12. [Prazo de Atendimento Suporte]
+Q: Prazo do suporte?
+A: 48h (Premium: prioridade interna, Link Dedicado: pode ter plantão 24/7).
+
+13. [Visita Técnica – Valor]
+Q: Quanto custa a visita improdutiva?
+A: Técnico analisa no local; valor padrão R$40.
+
+14. [Plantão Fins de Semana e Feriado]
+Q: Tem plantão?
+A:
+- Seg–Sex: 18h às 22h
+- Sáb: 12h às 20h
+- Dom: 08h às 20h
+- Chamados devem ser abertos até 1h antes do fim do plantão.
+
+15. [Pagamento de Serviços]
+Q: Como pagar visita/mudança de ponto?
+A: Pix ou cartão de crédito
+
+16. [IPTV/ITTV Plus]
+Q: Tem canais de TV?
+A: Sim, via app ITTV Plus. Globo não funciona. Indicado usar Firestick ou Roku.
+- Chamados de travamento do ITTV: encaminhar ao N2
+- Canais fora da Delta Ativa: orientar pelas normas da Anatel
+
+17. [Mudança de Ponto/Endereço]
+Q: Como solicitar?
+A: Abrir OS OUTRAS DEMANDAS - ALTERAÇÃO CADASTRAL, setor comercial retornará contato.
+
+18. [Financeiro/Comercial – Fatura, Bloqueio, Renegociação]
+Q: Como emitir fatura?
+A: Pode ser enviada ou retirada pela Central do Assinante, app, WhatsApp. Pagamento por Pix pode ser imediato.
+Q: Desbloqueio de confiança?
+A: Sim, nunca manual. Sempre abrir OS OUTRAS DEMANDAS - RENEGOCIAÇÕES.
+Q: Bloqueio após quantos dias?
+A: 30 dias do vencimento (45 dias total), aviso por SMS/e-mail.
+Q: Redução de velocidade?
+A: Sim, após 15 dias de vencimento (não fazer manualmente).
+
+19. [Pagamento de Fatura]
+Q: Quais métodos aceitos?
+A: Fatura, Pix (retornar contato em horário comercial), cartão de crédito
+
+20. [Comprovante de Pagamento]
+Q: Comprovante não baixou?
+A: Encaminhar para OUTRAS DEMANDAS - RENEGOCIAÇÕES
+
+21. [Cancelamento]
+Q: Como cancelar?
+A: Encaminhar para OUTRAS DEMANDAS - RETENÇÃO, informando motivo.
+
+22. [Atendimento Presencial]
+Q: Tem loja física?
+A: Sim
+- Taió: Rua Victor Konder 517, Bairro Victor Konder
+- Camboriú: Rua José Francisco Bernardes 733, sala 202, Areias
+- Ituporanga: Rua Castelo Branco, 155, Centro
+
+23. [Contatos]
+- Taió (Matriz): 47 3562-1254 (WhatsApp)
+- Camboriú: 47 3365-6112
+- Ituporanga: 47 3533-1254
+- Pres. Getúlio: 47 3522-7779
+- Central do Assinante: https://ixc.deltaativa.com.br/central_assinante_web/login
+- Site: https://www.deltaativa.com.br/
+- Facebook: https://www.facebook.com/deltaativainternettaio/?_rdc=1&_rdr

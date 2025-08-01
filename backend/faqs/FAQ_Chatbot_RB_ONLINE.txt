@@ -1,0 +1,109 @@
+RB ONLINE - FAQ Chatbot
+
+1. Qual o horário de atendimento da UpCall?  
+R: Segunda a sexta: 17:15h às 08:15h (almoço 12h-14h)  
+   Sábado, domingo e feriados: 24h  
+   UPSOFT - OK  
+   Somente chat
+
+2. Possui atendimento presencial?  
+R: Sim.  
+   Rua Henrique Gaburro, Nº 237, Bairro Santo Antônio, Rio Bananal/ES, CEP 29920-000
+
+3. Contato:  
+R: Telefone e WhatsApp: (27) 3199-0800
+
+4. Central do Assinante:  
+R: https://ixc.rbonline.com.br/central_assinante_web/login  
+   Login: CPF do cliente / Senha: últimos 4 dígitos do CPF
+
+5. Tecnologias da empresa:  
+R: Internet fibra, principalmente via rádio e TV (suporte transferido ao provedor)
+
+6. Alteração de rádio para fibra:  
+R: Encaminhar ao comercial para viabilidade e valores.
+
+7. Planos oferecidos:  
+R:  
+   - Interior Rádio Plus 01: 5Mb, 8Mb, 10Mb, 12Mb  
+   - Interior Rádio Zona 02: 3Mb, 4Mb, 5Mb  
+   - Interior Rádio Zona 03: 2Mb, 3Mb, 4Mb, 5Mb  
+   - Fibra Zona Urbana: 20Mb, 200Mb, 400Mb  
+   - Fibra Zona Rural: 20Mb, 50Mb  
+   *Não indicar upgrade de plano*
+
+8. Equipamentos utilizados:  
+R: Rádio Mikrotik (maioria), Intelbras, Ubiquiti; Fibra ONU em bridge, roteadores D-link, TP-link, Mercusys, Intelbras
+
+9. Suporte a repetidores:  
+R: Avaliar caso a caso, maioria equipamentos dos clientes.
+
+10. Portas de acesso aos roteadores:  
+R: 8080 e 80
+
+11. Usuários e senhas padrão:  
+R: admin/rbonline123, Admin/1003, rbonline/admin1003, adminadmin
+
+12. Pode informar senha ao cliente?  
+R: Sim, exceto roteadores D-link pré-set.
+
+13. Site padrão para medir velocidade:  
+R: speedtest.net
+
+14. DNS padrão:  
+R: Sempre automático
+
+15. Reset de equipamentos:  
+R: Pode passar PPPoE e auxiliar, se não conseguir, transferir ao provedor.
+
+16. Suporte N2 e N3:  
+R: Sim.
+
+17. Falta de interação em clientes desconectados:  
+R: Abrir N2 e finalizar atendimento.
+
+18. Prazo atendimento N2 e N3:  
+R: Técnico tenta contato, informar cliente para ficar atento.
+
+19. Plantão finais de semana e feriado:  
+R: Segunda a sexta 08h-17h30, sábados 08h-12h
+
+20. Visita técnica improdutiva:  
+R: Não cobram.
+
+21. Cobrança para trocar senha:  
+R: Não, transferir atendimento diretamente.
+
+22. IP Fixo e valores:  
+R: Sim, R$50,00; encaminhamento porta R$10,00; atendimento via N2.
+
+23. IPTV:  
+R: Não prestam suporte; reincidentes encaminhados ao N2.
+
+24. IPv6:  
+R: Em implantação.
+
+25. Mudança de endereço/ponto:  
+R: Transferir para comercial, informar horário.
+
+26. Financeiro:  
+R: Não enviam fatura; orientar cliente para central do assinante.
+
+27. Desbloqueio de confiança:  
+R: Não; fora do horário comercial, pode desbloquear com comprovante.
+
+28. Redução de velocidade:  
+R: Não.
+
+29. Métodos de pagamento:  
+R: Apenas boleto.
+
+30. Comprovante de pagamento:  
+R: Transferir atendimento; não abrir OS.
+
+31. Cancelamento:  
+R: Transferir para setor comercial.
+
+---
+
+FIM DO FAQ RB ONLINE

@@ -1,0 +1,122 @@
+
+NETCENTER
+
+Horário de atendimento da UPCALL (GMT -3)
+Segunda à Sexta das 23:50h às 08h
+*Sexta a noite a partir das 22:50h
+Sábados e Feriados das 22:50h às 08h
+Domingos das 16:50h às 08h de Segunda
+
+UPSOFT - OK
+
+CHAT E LIGAÇÃO
+
+SETORES IXC UPCHAT
+Informar a cidade nos recados do grupo
+
+Quais tecnologias oferecidas?
+R: Fibra, TV (App Netcenter TV), Leveduca, Deezer, Looke, UBook, Leitura360, Estuda+, Pequenos Leitores, Playlist App, O Jornalista, Social Comics, Kaspersky Standard, PlayKids+, ZenWelness, QNutri, Noping, Hube Revista, Fluid
+
+Login/Senha App Netcenter TV: CPF sem traços e pontos / 4 primeiros dígitos do CPF
+URL Netcenter TV: tv.netcentertelecom.com.br
+
+Login/Senha Leveduca: CPF sem traços e pontos / 4 primeiros dígitos do CPF
+iOS: https://apps.apple.com/br/app/leveduca/id1571292964?l=en
+Android: https://play.google.com/store/apps/details?id=com.nubbi.leveduca&hl=pt_BR&gl=US
+
+Em caso de problemas com serviços, encaminhar ao N2.
+
+Como prosseguir em contratações?
+Coletar informações e encaminhar ao Setor CONTRATAR (Canal Digital)
+Exemplo de mensagem:
+"Fico feliz em saber que deseja adquirir um de nossos planos. Preencha os dados e nosso time de vendas vai dar sequência em horário comercial.
+Nome Completo:
+CPF:
+Cidade:"
+
+Usuários, senhas e portas de acesso:
+Ver Planilhas de Acessos.
+Padronizar as senhas conforme planilha se necessário.
+Equipamentos mais comuns: admin / centertelecom / 80 ou 8081; wifi (askey/mitrastar): net2019* / 80
+
+É possível informar ao cliente a senha do roteador?
+R: Se for em comodato, acesso restrito. Equipamento próprio, gerar N2 para liberar.
+
+Site para medir velocidade: Speedtest ou Fast.com
+
+DNS padrão: Primário 170.82.12.3 / Secundário: 170.82.12.4
+
+Tratativa para reset:
+Cliente precisa levar o equipamento até a loja. Não abrir OS.
+
+Nível de sinal ideal:
+Rx: -26.00 dBm | Tx: -27.00 dBm
+Abaixo disso, pode gerar N2.
+
+Existe tratativa de suporte N2 ou N3?
+R: Sim, N2 para problemas de conexão e N3 somente para clientes SEM CONEXÃO.
+N2 = Assunto: Suporte N2 | Setor: Suporte N2
+N3 = Assunto: Sem Conexão | Setor: Suporte N2
+
+Horário do atendimento N2:
+Segunda a Sexta: 08h às 18h
+Sábados: 08h às 17h
+Domingos: 08h às 17h (só clientes offline)
+
+Falta de interação para clientes desconectados:
+Se LOS, gerar N3 e avisar o provedor no grupo. Se não, informar grupo e finalizar.
+
+Prazo do Suporte:
+Após abrir OS, transferir durante horário comercial.
+Prazo até 72 horas (fora do horário).
+
+Não usar "abrir ordem de serviço", mas sim "transferir ao setor responsável".
+
+Custo da visita improdutiva:
+Informar valor só se dano comprovado.
+
+IP Fixo:
+Encaminhar ao setor CONTRATAR PJ.
+
+IPTV:
+Tem sistema de TV. Suporte via N2 se necessário.
+
+IPV6:
+Utilizam ambos. IP fixo público é IPV4.
+
+Mudança de ponto/novo ponto:
+Transferir, o setor vai dar continuidade em horário comercial. Não fazem cabeamento para outros equipamentos.
+
+SETORES PARA TRANSFERÊNCIA:
+Mudança de endereço: Comercial (ShowRoom)
+Cancelamento: Ouvidoria
+
+Financeiro e Comercial:
+Suspensão temporária: possível de 30 a 120 dias. Transferir para Ouvidoria.
+Enviar fatura: Sim.
+Cobrança é pré-paga (ex: fatura vencimento 25/09 cobre período 01/10 a 31/10).
+Faturas em atraso: Financeiro pode cancelar se cliente não utilizou. Até 3 em atraso pode liberar confiança, mais que isso encaminha ao financeiro.
+Desbloqueio de confiança: Uma vez a cada 30 dias, ou função “Liberar Manualmente” (2 dias).
+Bloqueio: 4º dia de atraso.
+Redução de velocidade: Não.
+Pagamento: Boleto, código de barras, PIX, cartões em loja.
+Comprovante: Anexar descrição do atendimento/OS após liberação.
+
+Informações da Empresa:
+IXC: https://sistema.netcentertelecom.com.br/adm.php
+Central do Assinante: https://sistema.netcentertelecom.com.br/central_assinante_web/login
+Login: CPF / Senha: 4 primeiros dígitos do CPF
+
+Horário Loja: Seg a Sex 08h-18h | Sáb 08h-13h (Extremo Sul até 12h)
+Horário SAC/Suporte: Seg a Sáb 18h-00h | Dom 08h-23h
+
+Filiais:
+Arraial d'ajuda, Porto Seguro, Belmonte, Coroa Vermelha, Cabrália, Itabatã, Nova Viçosa, Mucuri
+(Ver endereços no sistema ou conforme solicitado)
+
+Atendimento presencial: Sim
+
+Telefone/WhatsApp: 0800 680 0002
+
+Facebook: https://pt-br.facebook.com/oficialnetcenter/
+Instagram: https://www.instagram.com/netcenteroficial/

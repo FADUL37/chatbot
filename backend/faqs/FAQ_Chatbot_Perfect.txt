@@ -1,0 +1,134 @@
+PERFECT - FAQ Chatbot
+
+1. Qual o horário de atendimento da UpCall?  
+R: Telefonia: Seg à Sex das 18h às 08h30 e das 12h às 13h30  
+   Sábados: 12h às 00h  
+   Domingos: 00h01 às 21h  
+   Chat: Seg à Sex das 18h às 21h  
+   Sábados: 12h às 00h  
+   Domingos: 00h01 às 21h  
+   UPSOFT - OK
+
+2. A empresa possui atendimento presencial?  
+R: Sim.
+
+3. Qual o telefone de contato?  
+R: (42) 3522-3166
+
+4. Qual o site?  
+R: https://perfectsolucoes.com.br/
+
+5. Redes sociais:  
+R: Facebook: https://it-it.facebook.com/siga.perfect/  
+   Instagram: https://www.instagram.com/siga.perfeect/
+
+6. Endereço:  
+R: Rua Quintino Bocaiúva, 69 - Centro, União da Vitória - PR, 84600-000
+
+7. Horário Comercial:  
+R: Seg à Sex: 8h30 às 12h e 13h30 às 18h  
+   Sábado: 8h30 às 12h
+
+8. Quais as tecnologias oferecidas?  
+R: Internet Fibra Óptica, Telefonia, Rádio, Energia Solar, Informática e SVA's:  
+   - Perfect TV (App com 160 canais + filmes) – liberado para clientes com plano > R$100  
+   - Watch TV (App com canais + filmes) – custo R$5  
+   - CampSoft (HBO MAX) – custo R$18
+
+9. Quais os planos vendidos?  
+R: Planos de rádio e fibra. Clientes sem contrato têm velocidade reduzida em 2MB, devem assinar via central do assinante.
+
+10. Quais cidades/bairros atendidos?  
+R: União da Vitória, Bituruna, Cruz Machado, Mallet, Fluviópolis, Paula Freitas, Paulo Frontin, Porto Vitória, Rio Azul, Rio Claro do Sul, Porto União, Felipe Schmidt, interior de Canoinhas, Irineópolis, Poço Preto e Santa Cruz do Timbó.
+
+11. Quais equipamentos utilizados?  
+R: Rádio: Ubiquit  
+   Fibra: Multilaser, TP-Link, ZTE
+
+12. Presta suporte a repetidores?  
+R: Não fornecem repetidor, mas fazem configuração com taxas: R$60 (urbano) e R$80 (rural).
+
+13. Trabalham com Rede Mesh?  
+R: Sim, cliente deve comprar segundo roteador.
+
+14. Portas de acesso aos roteadores?  
+R: 80, 8080
+
+15. Usuário e senha padrão?  
+R: Sem acesso atual; abrir N3 para casos urgentes.  
+   Exemplos: Ubiquit admin/kairos2010; Multilaser admin/kairos2010; ZTE multipro/multipro.
+
+16. É possível informar senha ao cliente?  
+R: Não.
+
+17. Se necessário abrir OS para trocar senha, é cobrado?  
+R: Abrir N3 e informar atendimento em horário comercial.
+
+18. DNS padrão?  
+R: 45.182.152.34 e 8.8.8.8
+
+19. Tratativas para reset?  
+R: Orientar cliente; geralmente abrir atendimento.
+
+20. Nível de sinal ideal?  
+R: RX até -32dBm (até -34dBm mantém conexão). Abaixo disso, encaminhar N3.
+
+21. Site para medir velocidade?  
+R: speedtest.net
+
+22. Existe suporte N2?  
+R: Não, somente N3.
+
+23. Quando abrir OS para vários atendimentos N1?  
+R: Se 3 ou mais N1 em sequência, abrir OS para provedor.
+
+24. Prazo atendimento suporte:  
+R: Seg à Sex: chamados até 12h–13h30 atendidos no dia; chamados até 18h–20h: urbano no dia, rural próximo dia.  
+   Sábados: 12h–20h mesmo dia, depois reagendado para domingo.  
+   Domingos: 08h–20h urbano mesmo dia, rural próximo dia útil.
+
+25. Técnico vai direto?  
+R: Sim, se OS agendada.
+
+26. Custo visita técnica improdutiva?  
+R: R$30 urbano, R$60 rural.
+
+27. Plantão fins de semana e feriado?  
+R: Sim, para clientes sem conexão.
+
+28. Forma pagamento serviços?  
+R: Boleto via central do assinante.
+
+29. Trabalham com IPTV?  
+R: Não prestam suporte direto, abrir N3 para IPTV.
+
+30. Fornecem IP fixo? Qual valor?  
+R: Sim, R$10 + mensalidade.
+
+31. Mudança de ponto ou endereço?  
+R: Transferir atendimento para financeiro e informar horário.
+
+32. Podemos enviar fatura?  
+R: Sim.
+
+33. Podemos fazer desbloqueio de confiança?  
+R: Sim, somente com comprovante de pagamento.
+
+34. Com quantos dias ocorre bloqueio?  
+R: 16 dias após vencimento.
+
+35. Possui redução de velocidade?  
+R: Não.
+
+36. Procedimento para cliente sem assinatura?  
+R: Orientar assinar contrato pela central do assinante ou WhatsApp.
+
+37. Métodos de pagamento?  
+R: Somente via fatura com código PIX.
+
+38. Procedimento para comprovante de pagamento?  
+R: Abrir OS e anexar comprovante.
+
+---
+
+FIM DO FAQ PERFECT

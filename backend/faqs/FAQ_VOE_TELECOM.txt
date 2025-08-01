@@ -1,0 +1,126 @@
+
+VOE TELECOM
+
+Horário de atendimento da UPCALL (GMT -3)
+- Segunda a Sábado: 20h às 08h (Transbordo)
+- Sábado: 18h às 05h de Domingo (Transbordo)
+- Domingo: 05h às 20h (Integral)
+- Domingo: 20h às 08h de Segunda (Transbordo)
+
+UPSOFT: OK
+
+CHAT E LIGAÇÃO
+- EBR agora é VOE
+- Clientes com O.S. “Migração de Rede” aberta e sem conexão devem reagendar visita técnica para migração.
+
+Tecnologias oferecidas
+- Internet Fibra e Rádio
+- Internet Móvel (problemas transferir para N2)
+
+Planos
+- Transferir atendimento de contratação.
+
+Cidades/Bairros de atuação
+- Viana, Cariacica, Vila Velha, Vitória, Serra, Aracruz, Fundão, João Neiva, Ibiraçu, São Mateus, Jacupemba, Guaraná
+
+Equipamentos utilizados
+- Intelbras, D-Link Dir842, Multilaser/Zte H196A ou H198A, TP-Link
+
+Suporte a repetidores
+- Não, para equipamentos do cliente
+- Rede MESH, transferir para Comercial
+
+Portas, usuários e senhas de acesso remoto
+- VOE Portas: 80, 8080, 2013, 9999, 9090, 8087
+- Usuários: admin, Admin, voe, vla, multipro
+- Senhas: 144741, Voe144741, D8Aw4b@CJ0, 239hvc8c, 34954100, admin, admin1, bambina
+- Senhas raras: lider2013, amneof, amneof@@, hiper, hiperconect
+
+- MP Portas: 8949, 8943, 8080, 80
+- Usuários/Senhas: multipro/multipro, dsm/030215, dsm/020315
+
+- Caso não tenha acesso, abrir OS para habilitar acesso remoto
+
+Senha do roteador
+- Passar somente via ligação para titular em linha
+- Cliente informado que danos no equipamento podem gerar cobrança de R$ 100
+
+Login/Senha PPPoE
+- Passar somente ao titular
+- Cobrança se houver desconfiguração
+
+DNS padrão
+- Primário: 168.121.28.10
+- Secundário: 168.121.28.11
+
+Reset e reconfiguração
+- Pode auxiliar e habilitar acesso remoto
+- Caso não consiga abrir OS, taxa de R$ 100,00 será cobrada
+
+Nível de sinal ideal
+- Entre RX -16 e -28 dBm
+- Fora disso, gerar N3
+
+Suporte técnico
+- Existe N2 e N3
+- Agendamento feito pelo setor técnico, cliente deve ficar atento ao telefone
+- Prazo máximo para serviço: 48 horas úteis
+- Prazo para agendamento: 24 horas úteis (não informar ao cliente)
+- Em caso de CTO/OTP acionada, prazo de reparo é 24h por empresa terceirizada
+
+Plantão fim de semana e feriado
+- Não há plantão técnico no fim de semana
+
+Troca de senha / abertura OS
+- Abrir OS se necessário
+- Primeira visita sem cobrança
+
+Visita técnica improdutiva
+- Não informar valor, a não ser que cliente pergunte
+- Caso cobre, valor é R$ 100
+
+IP fixo
+- Disponível via comercial
+- Valor: R$ 70,00 mensal por IP
+
+IPTV e suporte
+- Não presta suporte a IPTV
+- Orientar cliente a testar outros equipamentos e suporte da IPTV
+
+IPv6
+- Parte da rede é IPv4, outra IPv6
+
+Mudança de endereço
+- Transferir atendimento
+
+Financeiro e comercial
+- Envio de faturas: Sim
+- Bloqueio: 15 dias após vencimento
+- Desbloqueio de confiança: 1 vez após bloqueio; depois somente com comprovante
+- Redução de velocidade: Não possui
+- Pagamento: Apenas boleto com QR Code PIX via app Fale Voe
+- Contato para dúvidas financeiras: orientação para procurar setor responsável em horário comercial
+
+Contatos e links
+- IXC: https://ixc.voe.net.br/adm.php
+- Central do Assinante: https://ixc.voe.net.br/central_assinante_web/
+- App Fale Voe:
+  - App Store: https://apps.apple.com/br/app/fale-voe/id1583577165
+  - Google Play: https://play.google.com/store/apps/details?id=br.net.voe.ixc
+
+Endereços físicos
+- Loja Ibiraçu: Av. João Alves da Motta Júnior, 92, Centro, CEP 29670-000
+- Loja Aracruz: Rua Ananias, 30, Centro, próximo à ponto informática
+- Loja Praia Grande: Rodovia Vitória Santa Cruz, Fundão, CEP 29187-000
+- Loja Vila Velha: Rua Sebastião Silveira, 24, Gaivotas
+- Loja São Mateus: Rua Zozima Ancheschi Bonomo, próximo ao restaurante Arapongas
+
+Horários de atendimento
+- Lojas: Seg a Sex 08h–17h; 1 sábado sim e 1 sábado não 08h–12h
+- Suporte interno: Seg a Sex 08h–20h; Sáb e Feriados 08h–18h
+- Comercial: Seg a Sex 08h–18h30; Sáb 08h–17h
+- Financeiro: Seg a Sex 08h–19h; Sáb 08h–18h
+
+Telefones e WhatsApp
+- WhatsApp: (27) 4042 3544
+- Telefone: 0800 983 2054

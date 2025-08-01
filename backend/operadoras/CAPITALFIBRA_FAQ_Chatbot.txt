@@ -1,0 +1,184 @@
+CAPITAL FIBRA – FAQ Chatbot (Pergunta & Resposta)
+
+1. [Horário de Atendimento]
+Q: Qual o horário de atendimento da Capital Fibra (UPCALL)?
+A:
+- Segunda à Sábado: 20h às 08h
+- Domingos e Feriados: 24h
+
+2. [Tecnologias Oferecidas]
+Q: Quais tecnologias a Capital Fibra oferece?
+A:
+- Fibra
+- Telefonia (linha, não fornece aparelho)
+- TV (apenas via aplicativo, sem aparelho físico)
+
+3. [Contratação]
+Q: Como proceder em casos de contratação?
+A:
+- Transferir ao setor Contratar.
+- Fora do horário: avisar cliente que a solicitação será repassada ao setor responsável, que retornará em breve.
+- Não finalizar o atendimento até transferência.
+
+4. [Planos Comercializados]
+Q: Quais são os planos da Capital Fibra?
+A: 600, 800 e 1000 megas
+(Clientes com planos menores: verificar viabilidade de upgrade no grupo.)
+
+5. [Áreas de Cobertura]
+Q: Em quais cidades/bairros a Capital Fibra atua?
+A:
+- Bairro Veneza
+- Fazenda Rio Grande
+- Tatuquara (condomínios)
+- Caximba
+- Bairro Novo Mundo
+- Parolim
+- Guaíra
+
+6. [Telefone e Linha Telefônica]
+Q: Como proceder sobre problemas na linha telefônica?
+A:
+- Levantar informações básicas e transferir para o provedor durante horário de atendimento.
+- Para ligações interurbanas: digitar só DDD + número.
+
+7. [TV]
+Q: Como acessar a TV Capital?
+A:
+- Baixe o app “Capital Play” na loja do seu dispositivo (Android ou iOS)
+- Login e senha: CPF
+- Links:
+  - Android: https://play.google.com/store/apps/details?id=br.com.capitalfibra.edge.mobile
+  - iOS: https://apps.apple.com/br/app/capital-play/id6446258972
+
+8. [Repetidores e Rede Mesh]
+Q: Presta suporte a repetidores?
+A:
+- Não, para equipamentos do cliente.
+- Para segundo ponto/rede mesh: agendamento para estudo técnico. Se aprovado, abrir VISITA TÉCNICA.
+
+9. [Usuário e Senha Padrão dos Equipamentos]
+Q: Qual usuário e senha padrão dos roteadores?
+A:
+(Consultar planilha e manual para cada modelo. Exemplos:)
+- UNEE: root / Changeme_123
+- ASKEY: admin / askey123, 825e3a2a
+- NOKIA: telecomadmin / admintelecom
+- CAPITAL NET: support / 825e3a2a
+- MITRA: admin / mitra123, 825e3a2a
+- HUAWEI: telecomadmin / capitalnet
+- TP LINK, INTELBRAS: 99293 / capitalnet
+- DATACOM: user / Support@1
+(Ver lista completa no arquivo)
+
+Q: Pode informar a senha ao cliente?
+A: Sim, mas oriente que qualquer dano implicará visita técnica cobrada.
+
+10. [Troca de Senha e Reset]
+Q: Se não conseguir trocar a senha, pode abrir OS?
+A:
+- Sim, primeira visita gratuita; as demais, cobradas.
+- Reset: abrir atendimento e informar sobre visita improdutiva.
+
+11. [DNS Padrão]
+Q: Qual DNS padrão?
+A: DNS1: 189.36.252.77, DNS2: 189.36.252.78
+
+12. [Teste de Velocidade]
+Q: Qual site para teste de velocidade?
+A: https://capitalfibra.speedtestcustom.com/
+
+13. [Suporte N2/N3]
+Q: Existe N2 e N3?
+A:
+- N2: Suporte Remoto
+- N3: Visita Técnica
+- Para falta de interação, não abrir OS sem confirmação do cliente
+
+14. [Prazo de Atendimento]
+Q: Qual prazo do suporte técnico?
+A:
+- Sempre passar ao cliente a data do agendamento (09h–18h).
+- Para instabilidades, agendar para o próximo dia útil.
+- Fora do horário, só exceções e mediante análise.
+
+15. [Plantão Fins de Semana/Feriados]
+Q: Tem plantão?
+A:
+- Sábado até 18h
+- Domingo 08h–18h
+
+16. [Visita Técnica – Valores]
+Q: Qual custo da visita improdutiva?
+A:
+- Passagem de cabeamento: R$30 + R$3,50 por metro
+- Mudança de cômodo: R$30 sem troca de fibra; R$70 com troca
+- Ponto adicional: agendar orçamento; instalação + R$29,99/mês
+
+17. [Forma de Pagamento de Serviços]
+Q: Como é feito o pagamento por visita/mudança?
+A: À vista para o técnico, ou junto com a próxima fatura (verificar caso a caso)
+
+18. [Mudança de Endereço]
+Q: Como solicitar mudança de endereço?
+A:
+- No horário comercial: transferir direto para o provedor
+- Fora do horário: coletar informações, enviar no grupo e avisar que o setor irá retornar. Cliente precisa levar o modem para o novo endereço.
+
+19. [IPTV]
+Q: Trabalha com IPTV?
+A:
+- Investigar até o cliente admitir para registro
+- Cabeamento grátis até 1,5m, depois é cobrado
+- Registrar tudo no sistema
+
+20. [IP Fixo]
+Q: Fornece IP fixo? Valor?
+A:
+- Pessoa física: R$70/mês
+- Jurídico: R$100/mês
+
+21. [Financeiro e Comercial – Fatura, Pagamento, Bloqueio]
+Q: Como funciona a fatura?
+A:
+- Pode enviar ou acessar pela Central do Assinante
+- Boleto ou Pix (QR code na fatura)
+- Carnê disponível nas lojas
+
+Q: Bloqueio após quantos dias?
+A: 15 dias após vencimento (vencimentos: 10, 15, 20, 25)
+
+Q: Desbloqueio de confiança?
+A:
+- Sim, não com 2 ou mais faturas em atraso
+- Desbloqueio de confiança: 5 dias
+- Preventivo: 3 dias (com comprovante)
+
+Q: Redução de velocidade?
+A: Não
+
+22. [Comprovante de Pagamento]
+Q: Como enviar comprovante?
+A: Anexar no sistema
+
+23. [Cancelamento de OS]
+Q: Como cancelar uma OS?
+A: Alterar técnico para CENTRAL e avisar no grupo
+
+24. [Informações da Empresa]
+- Central do Assinante: https://central.capitalnet.hubsoft.com.br/
+- App:
+    - App Store: https://apps.apple.com/br/app/capital-fibra/id1638322751
+    - Google Play: https://play.google.com/store/apps/details?id=com.hubsoft_client_app.capitalnet
+- Telefone: 0800 941 0094
+- Site: https://capitalfibra.com.br/site/
+- E-mail: sac@capitalfibra.com.br
+- Endereços:
+  - R. João Quirino Leal, 1515 CASA 42, Jardim Veneza, Fazenda Rio Grande - PR
+  - Av. Cedro, 507, Eucaliptos
+  - Rua Francisca Beraldi Paolini, 860, Caximba - PR
+
+25. [Horários dos Setores]
+- Atendimento presencial Loja Veneza: Seg–Sáb, 08h–12h e 13h30–17h30
+- Demais setores SAC: Seg–Sáb, 08h–12h e 13h30–16h30 (até 23h30 para transferências)
+- Comercial/Contratar: Seg–Sex, 08h–16h30 (até 23h30 para transferências); Sáb/Feriados, 08h–17h

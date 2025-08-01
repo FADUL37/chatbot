@@ -1,0 +1,132 @@
+BRASILINK – FAQ Chatbot (Pergunta & Resposta)
+
+1. [Horário de Atendimento]
+Q: Qual o horário de atendimento da Brasilink (UPCALL)?
+A:
+- Segunda à Quinta: 22h às 07h30
+- Sexta: 17h30 às 18h de Sábado
+- Sábado: 22h às 08h de Domingo
+- Domingo: 18h às 07h30 de Segunda
+(Chat e ligações)
+
+2. [Tecnologias Oferecidas]
+Q: Quais tecnologias a Brasilink oferece?
+A: Fibra e rádio
+
+3. [Planos Comercializados]
+Q: Quais são os planos da Brasilink?
+A: 100, 300 e 500 megas
+(Além de opções para Viçosa/Araquem: 5, 10, 20, 30, 40, 50 e 100 Mbps)
+
+4. [Áreas de Cobertura]
+Q: Em quais cidades a Brasilink atua?
+A: Viçosa do Ceará, Tianguá, Cocal, Rio Verde
+
+5. [Equipamentos Utilizados]
+Q: Quais os equipamentos utilizados?
+A: Tplink, Tenda, Multilaser, Greatek, Mercusys, Zte, Ont Nokia
+
+6. [Repetidores e Rede Mesh]
+Q: Brasilink oferece suporte a repetidores?
+A:
+- Sim, possui planos com repetidores (P3: segundo roteador; P4: dois aparelhos com Mesh WiFi 6)
+- Se cliente comprar repetidor por conta própria: instalação/configuração é feita por R$ 60 (cobrada na fatura). Sempre confirmar valor da taxa!
+
+7. [Acesso e Senha do Roteador]
+Q: Qual porta de acesso aos roteadores?
+A: 8080, 8085 (testar http:// e https://)
+Q: Qual usuário e senha padrão dos roteadores?
+A:
+- Zyxel: admin / brasi70
+- ONT Nokia (Cocal): AdminGPON / ALC#FGU
+- TP-LINK, INTELBRAS: admin / admin
+- Greatek 1800: super / super123
+- Huawei: [usuário em branco] / brasi70
+- Diversos: pnbl / brasi70
+- ZTE: multipro / d7@xSb*R39ba, xR*qJBh#0@h2, user / zte#ca199a@, admin / d7@xSb*R39ba, mlr#ca807RE@, pnbl / admin / brasi70, admin / bras!@
+(Caso não tenha acesso, encaminhar para o grupo.)
+
+8. [VPN – Usuários por região]
+Q: Quais os usuários de VPN?
+A:
+- Tianguá, Viçosa, Cocal: internoBRASILINK
+- Rio Verde: internoBK
+- Ex-clientes HB: internoBRASILINKHB
+
+9. [Reset/OS/Troca de senha]
+Q: Como proceder com reset ou troca de senha?
+A:
+- Não informar senha ao cliente.
+- Reset: somente encaminhar visita técnica (abrir OS, não cobrado).
+- Se não tiver acesso remoto: abrir OS e comunicar grupo.
+- Possui suporte N2 e N3.
+
+10. [DNS Padrão]
+Q: Qual o DNS padrão da Brasilink?
+A: 191.7.213.230 e 191.7.213.231
+
+11. [Prazo e Cobrança de Visita Técnica]
+Q: Qual o prazo de atendimento do suporte?
+A: 24h úteis após abertura da OS. Técnico vai direto ao local, sem contato prévio.
+Q: Há cobrança de visita improdutiva?
+A: Apenas se reincidente (técnico informa valor no momento).
+
+12. [Plantão, Serviços e Mudança]
+Q: Tem plantão aos fins de semana e feriados?
+A:
+- Sábado: 18h às 20h30
+- Domingo: 08h às 12h (EXTERNO)
+Q: Mudança de ponto/endereço, como proceder?
+A:
+- Encaminhar para Outras Demandas fora do horário e transferir ao Comercial no expediente
+- Passagem de cabo/troca de local: só de segunda a sexta
+
+13. [IPTV, IP Fixo e IPV6]
+Q: Trabalha com IPTV?
+A: Não. Só faz cabeamento se solicitado, encaminhando ao setor correto.
+Q: Utiliza IPV6?
+A: Sim
+Q: Fornece IP Fixo? Valor?
+A: Sim, R$ 25/mês
+
+14. [Financeiro, Fatura e Pagamento]
+Q: Como funciona envio e pagamento da fatura?
+A:
+- Pode enviar fatura ou indicar Central do Assinante
+- Pagamento via Pix direto na fatura
+- Pode encaminhar QR Code pelo chat
+- Renegociação: abrir Outras Demandas
+Q: Quantos dias após vencimento ocorre bloqueio?
+A: 10 dias após vencimento; bloqueio total com 15 dias
+Q: Desbloqueio de confiança?
+A: Sim, com 1 fatura em atraso, válido por 2 dias; mais faturas só com comprovante
+Q: Redução de velocidade após atraso?
+A: Não
+
+15. [Comprovante de Pagamento]
+Q: Como enviar comprovante de pagamento?
+A: Anexar ao atendimento N1; baixa em até 24h
+
+16. [Troca de Titularidade e Cancelamento]
+Q: Como fazer troca de titularidade?
+A: Abrir OUTRAS DEMANDAS. Novo titular precisa comparecer presencialmente com documento e contato do titular atual.
+Q: Como cancelar?
+A: Abrir OUTRAS DEMANDAS - CANCELAMENTO (caso retenção não seja bem sucedida)
+
+17. [Endereços e Atendimento]
+Q: Onde ficam os endereços Brasilink?
+A:
+- Tianguá: Rua deputado Manoel Francisco, 800 - Centro
+- Viçosa do Ceará: Rua Professor João Viana, 40 - Centro
+- Cocal: Av Raimundo Alves Pereira, 984 - São Pedro
+
+18. [Horários Gerais]
+- Segunda à Quinta: 07h30 às 18h
+- Sexta: 07h30 às 17h30
+
+19. [Contatos]
+Q: Como falar com a Brasilink?
+A:
+- Telefone: 0800 775 1010
+- Central do Assinante: https://atendimentoixc.brasilink.net.br/central_assinante_web/login (login: CPF / senha: 6 primeiros dígitos do CPF)
+- Site: http://www.brasilink.net.br/

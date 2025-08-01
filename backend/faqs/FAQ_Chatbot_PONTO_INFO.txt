@@ -1,0 +1,137 @@
+PONTO INFO - FAQ Chatbot
+
+1. Qual o horário de atendimento da UpCall?  
+R: Segunda a sexta: 00h00–08h00 e 18h00–23h59  
+   Sábado: 00h00–08h00 e 12h00–23h59  
+   Domingo: 00h00–23h59  
+   Feriados: 24 horas  
+   UPSOFT - OK  
+   Somente ligações
+
+2. A empresa possui atendimento presencial?  
+R: Sim.  
+   Endereço: Brodowski/SP, Rua Floriano Peixoto, 759 - Centro
+
+3. Qual o telefone?  
+R: (16) 3664-6379
+
+4. Qual o WhatsApp?  
+R: (16) 98113-4755
+
+5. Central do Assinante:  
+R: http://www.pontoinfo.com.br/ (Somente 2ª via boleto, acesso via CPF/CNPJ)
+
+6. Qual o site?  
+R: http://www.pontoinfo.com.br/
+
+7. Qual o horário comercial presencial?  
+R: Segunda a sexta: 08h00 às 18h00  
+   Sábado: 08h00 às 12h00
+
+8. Quais as tecnologias oferecidas?  
+R: Fibra óptica
+
+9. Quais planos vendidos?  
+R: 30M / 60M / 300M / 400M / 500M / 600M
+
+10. Solicitações de contratação:  
+R: Encaminhar no grupo
+
+11. Quais cidades atendidas?  
+R: Brodowski/SP (100% cobertura)
+
+12. Quais equipamentos utilizados?  
+R: Modem óptico (ONU) e roteador Wi-Fi
+
+13. Presta suporte a repetidores?  
+R: Não
+
+14. Presta suporte a câmeras?  
+R: Não
+
+15. Porta de acesso aos roteadores?  
+R: Não tem acesso
+
+16. Usuário e senha padrão?  
+R: Não aplicável
+
+17. É possível informar senha ao cliente?  
+R: Não
+
+18. Se necessário abrir OS para trocar senha, é cobrado?  
+R: R$ 20,00
+
+19. Sites para teste de velocidade:  
+R: https://fast.com  
+   https://www.speedtest.net
+
+20. Garantem banda via WiFi?  
+R: Não, somente via cabo ethernet
+
+21. DNS padrão:  
+R: 8.8.8.8  
+   208.67.222.222
+
+22. Tratativas para reset:  
+R: Não realizar reset ou apertar botões; desligar e religar aparelhos
+
+23. Existe suporte N2?  
+R: Não
+
+24. Prazo de atendimento:  
+R: 24 horas úteis
+
+25. Existe setor de agendamento?  
+R: Não, técnico vai direto ou liga se solicitado
+
+26. Custo visita técnica improdutiva?  
+R: Sem custo
+
+27. Tem plantão finais de semana e feriado?  
+R: Sim, das 08h às 18h todos os dias
+
+28. Forma pagamento serviços:  
+R: Visita técnica não cobrada  
+   Mudança de ponto: pagamento antecipado via pix, dinheiro ou maquininha
+
+29. Trabalham com IPTV?  
+R: Não
+
+30. Fornecem IP fixo? Valor?  
+R: Sim, valor a negociar
+
+31. Mudança de ponto/instalação:  
+R: Abrir chamado para contato em horário comercial
+
+32. Mudança de endereço:  
+R: Abrir chamado para contato em horário comercial
+
+33. Podemos enviar fatura?  
+R: Sim, por email ou WhatsApp via UPSOFT
+
+34. Com quantos dias ocorre bloqueio?  
+R: 15 dias após vencimento  
+   Bloqueios automáticos toda terça-feira (ou quarta se terça feriado)
+
+35. Podemos desbloqueio de confiança?  
+R: Sim, se opção habilitada e boleto vencido entre 15 e 21 dias
+
+36. Por quantos dias a conexão é liberada?  
+R: Até próximo bloqueio automático
+
+37. Possui redução de velocidade?  
+R: Não
+
+38. Métodos de pagamento:  
+R: Boleto com código de barras e QR code  
+   Pix compensa no próximo dia útil
+
+39. Procedimento comprovante pagamento:  
+R: Enviar WhatsApp para (16) 98113-4755
+
+40. Como proceder em cancelamento:  
+R: Abrir chamado para contato e continuidade no horário comercial
+
+---
+
+FIM DO FAQ PONTO INFO

@@ -1,0 +1,130 @@
+FACILITI – FAQ Chatbot (Pergunta & Resposta)
+
+1. [Horário de Atendimento UPCALL]
+Q: Qual o horário de atendimento da Faciliti pela UpCall?
+A:
+- Segunda a Sábado: 18h às 08h
+- Sábados: 12h às 08h de Segunda
+
+2. [Tecnologias Oferecidas]
+Q: Quais tecnologias a Faciliti oferece?
+A: Internet fibra óptica
+
+3. [Planos Comercializados]
+Q: Quais são os planos urbanos?
+A:
+- 70MB - 69,90 (FacilitiPlay 1 tela + Qualifica)
+- 300MB - 89,90 (FacilitiPlay 2 telas + Qualifica + 2 Apps à escolha)
+- 600MB - 109,90 (FacilitiPlay 5 telas + Qualifica + 3 Apps à escolha)
+- 900MB - 129,90 (FacilitiPlay 5 telas + Qualifica + 4 Apps à escolha)
+- Planos com Globoplay e rurais, veja detalhes acima
+
+4. [Cobertura]
+Q: Quais bairros/cidades são atendidos?
+A: Centro, Bocaina, Vila Esperança, Eldorado, São Henry, Vila Nova, Paraíso, Usina, Garapa, Porto, Novo Porto, Rhodia, Balancé, Calçadinha, Vila São José, Tribo, Piteira, Feem, São Geraldo, Piabas, Curato, Macabuzinho, Vila Barata, Vila Tavares, Poaia, Capelinha, Carapebus, Ingazeira, Lameiro, Maria Amália, Santa Maria, Ubás, Assentamento Prefeito Celso Daniel, Cabiúnas, Retiro, Amorosa, Osório, Agulha, Barro Vermelho, Triunfo, Loreti, Agrovila.
+
+5. [Equipamentos Utilizados]
+Q: Quais equipamentos são usados?
+A:
+- Roteador 2 antenas: planos até 70MB
+- Roteador 4 antenas: planos acima de 100MB
+- Equipamentos são em comodato, cliente assina contrato e deve zelar pelo uso
+
+6. [Repetidores/Câmeras]
+Q: Prestam suporte a repetidores e câmeras?
+A:
+- Suporte apenas a repetidores Faciliti (visita R$50 + material)
+- Rede mesh: R$29,90/mês por ponto
+- Câmeras: Só se instaladas pela Faciliti
+
+7. [Acesso/Senha do Roteador]
+Q: Posso receber usuário/senha do roteador?
+A: Não, só a empresa tem acesso. Informações de roteador apenas em horário comercial.
+
+8. [Troca de Senha/Reset]
+Q: Como proceder se precisar trocar senha ou resetar?
+A: Abrir atendimento INFORMAÇÕES GERAIS, equipe retorna em horário comercial. Se for necessário visita, valor é R$50,00.
+
+9. [Teste de Velocidade e Garantia de Banda]
+Q: Qual site usar? Garantem a banda?
+A:
+- Teste: Speedtest (preferencialmente no 5G)
+- Nenhum WiFi garante 100% da banda contratada
+
+10. [DNS Padrão]
+A: 200.142.176.13, 200.142.176.14
+
+11. [Reset de Equipamento]
+Q: O cliente pode resetar o roteador?
+A: Não, apenas a empresa realiza esse procedimento.
+
+12. [Suporte N2/N3]
+Q: Como são chamados os níveis de suporte?
+A: Utilizam nomenclaturas: SEM CONEXÃO, LENTIDÃO, TRIAGEM – OUTRAS DEMANDAS.
+
+13. [Prazo de Atendimento]
+Q: Qual o prazo para atendimento?
+A:
+- Residencial: 24h a 48h úteis, até 72h conforme demanda
+- Corporativo: Até 4h
+- OUTRAS DEMANDAS: Retorno em horário comercial
+- Visita técnica: Se for problema técnico não cobra. Se for má utilização, modificação ou rompimento do lacre, R$50
+
+14. [Agendamento]
+Q: O técnico agenda visita?
+A: Sim, existe setor de agendamento
+
+15. [Plantão]
+Q: Tem plantão técnico em finais de semana e feriado?
+A:
+- Suporte técnico: Seg-Sex 08h-18h, Sáb 08h-12h, Dom/feriado: não há
+- Call center: 24h
+
+16. [Formas de Pagamento]
+Q: Como posso pagar visita/mudança de ponto?
+A: Pix, boleto, dinheiro, débito (na recepção) ou cartão (central do assinante). Pode lançar na próxima fatura se cliente está em dia.
+
+17. [IPTV/CDNTV]
+Q: Trabalha com IPTV?
+A: Sim, CDNTV. Suporte e locação de aparelho R$29,90/mês.
+
+18. [IP Fixo]
+Q: Fornece IP fixo?
+A: Sim, R$99,88/mês
+
+19. [Mudança de Ponto/Endereço]
+Q: Como proceder?
+A: Abrir atendimento INFORMAÇÕES GERAIS para equipe retornar.
+Mudança de endereço:
+- R$80 à vista ou R$100 em 2x de R$50 (com financeiro em dia)
+- Equipamento levado pelo cliente
+- Até 100m de fibra incluso, acima disso R$1/m
+
+20. [Fatura/Bloqueio/Desbloqueio]
+Q: Como acessar a fatura e desbloquear?
+A:
+- Somente via Central do Assinante: https://central.faciliti.com.br/central_assinante_web/login
+- Login: CPF/CNPJ sem pontuação
+- Senha: Igual login
+- PIX, cartão ou boleto disponíveis
+- Desbloqueio temporário (3 dias) disponível na Central do Assinante
+
+21. [Comprovante de Pagamento]
+Q: Como enviar comprovante?
+A: Abrir atendimento INFORMAÇÕES GERAIS para Financeiro, anexar comprovante.
+
+22. [Cancelamento]
+Q: Como cancelar?
+A: Fazer atendimento para equipe retornar em horário comercial (retenção).
+
+23. [Contatos e Endereços]
+- Central do Assinante: https://central.faciliti.com.br/central_assinante_web/login
+- Conceição de Macabu - RJ: AV. Vitor Sence, 61 - Centro
+- E-mail: faciliti@faciliti.com.br
+- Telefones: (22) 2779-9100 | 0800-123-4041
+- WhatsApp: (22) 2779-9100
+- Site: https://faciliti.com.br/bandalarga/
+
+24. [Horários]
+- Atendimento técnico: Seg-Sex 08h-18h, Sáb 08h-12h, Dom/Feriado: não trabalham
+- Suporte call center: 24h

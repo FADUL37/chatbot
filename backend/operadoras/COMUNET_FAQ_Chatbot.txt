@@ -1,0 +1,150 @@
+COMUNET – FAQ Chatbot (Pergunta & Resposta)
+
+1. [Horário de Atendimento]
+Q: Qual o horário de atendimento da COMUNET (UPCALL)?
+A:
+- Segunda à Sexta: 23h01 até 06h59
+- Sábados e Domingos: 20h às 08h
+
+2. [Tecnologias Oferecidas]
+Q: Quais tecnologias a COMUNET oferece?
+A:
+- Internet Fixa Fibra
+- Internet Móvel (Chip)
+- Telefone Fixo
+- Câmeras de Monitoramento
+- Central de Alarme
+- Canais de TV (IPTV)
+- Streaming: Disney, Globoplay, HBO, Paramount
+(Problemas nesses serviços: direcionar ao N2)
+
+3. [Planos Comercializados]
+Q: Quais são os planos da COMUNET?
+A: O cliente deve entrar em contato com o setor comercial em dias úteis.
+
+4. [Contratação]
+Q: Como prosseguir com contratações?
+A: O cliente deve entrar em contato com o setor comercial em dias úteis.
+
+5. [Áreas de Cobertura]
+Q: Em quais cidades a COMUNET atua?
+A: Alvorada, Viamão e Porto Alegre
+
+6. [Equipamentos Utilizados]
+Q: Quais os equipamentos utilizados?
+A: ONT, ONU, roteadores
+
+7. [Repetidores]
+Q: Presta suporte a repetidores?
+A: Não
+
+8. [Câmeras]
+Q: Presta suporte a câmeras?
+A: Somente nível 2 durante horário comercial
+
+9. [Acesso aos Roteadores]
+Q: Qual a porta de acesso aos roteadores?
+A: Não será necessário
+Q: Qual usuário e senha padrão para acesso?
+A: Não será necessário
+Q: É possível informar ao cliente a senha do roteador?
+A: A senha está no adesivo no roteador. Se não funcionar, marcar visita presencial.
+
+10. [Troca de Senha – OS]
+Q: Se não tivermos acesso para trocar a senha e for necessário abrir OS, é cobrado?
+A: Não há cobrança
+
+11. [Teste de Velocidade]
+Q: Qual site para teste de velocidade?
+A: https://www.speedtest.net/pt
+
+12. [Garantia de Banda via WiFi]
+Q: Garantem toda a banda no WiFi?
+A: Garantia apenas no cabo
+
+13. [DNS Padrão]
+Q: Qual DNS padrão?
+A:
+- Primário: 172.16.254.10
+- Secundário: 172.16.254.6
+
+14. [Nível de Sinal Ideal]
+Q: Qual o nível de sinal ideal?
+A: Em caso de dúvida, marcar visita presencial
+
+15. [Reset de Equipamento]
+Q: Quais as tratativas para reset?
+A: Abrir atendimento presencial
+
+16. [Suporte N2/N3]
+Q: Possui N2 e N3?
+A: Sim, ambos
+
+17. [Prazo de Atendimento]
+Q: Qual prazo do suporte?
+A: No máximo 24h
+
+18. [Agendamento/Visita Técnica]
+Q: Técnico vai direto ou há setor de agendamento?
+A: Técnico vai direto
+
+19. [Custo de Visita Técnica Improdutiva]
+Q: Custo da visita improdutiva?
+A: R$ 50
+
+20. [Plantão Fins de Semana/Feriado]
+Q: Tem plantão aos finais de semana/feriado?
+A: Sim
+
+21. [Pagamento de Serviços]
+Q: Como pagar por visita/mudança de ponto?
+A: Contatar o setor financeiro no próximo dia útil
+
+22. [IPTV/Streaming]
+Q: Trabalha com IPTV?
+A: Não trabalhamos e não damos suporte por ser pirata
+
+23. [IP Fixo]
+Q: Fornece IP fixo? Valor?
+A: Sim, mediante verificação. Sem custo.
+
+24. [Mudança de Ponto/Endereço]
+Q: Como funciona mudança de ponto/endereço?
+A: Contatar setor financeiro no próximo dia útil
+
+25. [Financeiro & Comercial – Fatura, Pagamento, Bloqueio]
+Q: Pode enviar fatura?
+A: Só por Pix. Usar site https://faturas.comunet.psi.br (solicitar via CPF)
+Mensagem padrão: “Por favor, clique no link abaixo, insira seu CPF e pague sua fatura por PIX. https://faturas.comunet.net.br”
+Q: Com quantos dias ocorre o bloqueio?
+A: 15 dias
+Q: Desbloqueio de confiança?
+A: Não
+Q: Por quanto tempo a conexão é liberada?
+A: Liberação automática após pagamento Pix
+Q: Possui redução de velocidade?
+A: Não
+Q: Métodos de pagamento?
+A: Pix
+Q: Precisa enviar comprovante?
+A: Não é necessário, Pix é instantâneo
+Q: Como cancelar?
+A: Contatar setor financeiro no próximo dia útil
+
+26. [Atendimento Presencial]
+Q: Tem atendimento presencial?
+A: Não
+
+27. [Endereços, Horários e Contatos]
+Q: Horários:
+- Lojas físicas: 8h às 18h
+- Visitas técnicas: 9h às 17h
+- Suporte técnico: 24h
+- Financeiro/comercial: 8h às 18h (dias úteis)
+
+Q: Como falar com a COMUNET?
+A:
+- Telefone/WhatsApp: 51 2626-4267
+- Central do Assinante: https://comunetisp.rbxsoft.com/app_menu/app_menu.php
+- Site: www.comunet.com.br
+- E-mail: atendimento@comunet.com.br

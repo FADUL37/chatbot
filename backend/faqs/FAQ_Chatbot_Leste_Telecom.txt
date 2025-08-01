@@ -1,0 +1,160 @@
+FAQ Chatbot – Leste Telecom
+
+---
+
+### Horário de Atendimento UPCALL
+- **Seg a Sex:** 23h às 8h
+- **Sáb, Dom e Feriado:** 20h às 8h
+
+---
+
+### 1. Tecnologias Oferecidas  
+**Pergunta:** Quais tecnologias a Leste Telecom oferece?  
+**Resposta:** FTTH (fibra óptica até a casa do cliente).
+
+---
+
+### 2. Planos Disponíveis  
+**Pergunta:** Quais planos estão disponíveis?  
+**Resposta:**  
+- Planos variam conforme a cidade e perfil (residencial/predial).  
+- Incluem opções com Mesh, roteadores AC (Wi-Fi 5) e AX (Wi-Fi 6), com ou sem fidelidade.  
+- Consulte sempre: [lestetelecom.com.br](https://www.lestetelecom.com.br/)
+
+---
+
+### 3. Áreas de Atuação  
+**Pergunta:** Quais cidades são atendidas?  
+**Resposta:**  
+- Itaboraí, Tanguá, Rio Bonito, Magé, Guapimirim, São Gonçalo, Niterói, Maricá.  
+- Consulte viabilidade no site: [Viabilidade](https://www.lestetelecom.com.br/viabilidade)
+
+---
+
+### 4. Equipamentos  
+**Pergunta:** Quais equipamentos são fornecidos?  
+**Resposta:**  
+- Conversores ópticos: FIBERHOME, ZTE, NOKIA, DLINK, PADTEC.  
+- Roteadores: modelos BGN, Wi-Fi 5 (AC), Wi-Fi 6 (AX)  
+- [Configuração de equipamentos](https://www.lestetelecom.com.br/configurando-roteador)
+
+---
+
+### 5. Suporte a Repetidores/Câmeras  
+**Pergunta:** Prestam suporte a repetidores/câmeras?  
+**Resposta:**  
+- Repetidores só quando contratados no plano Mesh.  
+- Não prestam suporte a câmeras particulares.
+
+---
+
+### 6. Porta de acesso do roteador  
+**Pergunta:** Qual porta acessar o roteador fornecido?  
+**Resposta:**  
+- Porta 8090, somente para roteadores em comodato.
+
+---
+
+### 7. Usuário/Senha padrão  
+**Pergunta:** Como acessar o roteador?  
+**Resposta:**  
+- admin/admin  
+- admin1/admin  
+- admin/(código cliente + 6 últimos MAC)  
+- Senhas não são fornecidas para equipamentos em comodato.
+
+---
+
+### 8. Reset e Troca de Senha  
+**Pergunta:** Posso resetar/trocar a senha do meu roteador?  
+**Resposta:**  
+- Reset apenas em último caso, pode deixar o cliente sem internet.  
+- Troca de senha somente com atendimento técnico.
+
+---
+
+### 9. Visita Técnica  
+**Pergunta:** Tem custo visita técnica improdutiva?  
+**Resposta:**  
+- Sim, R$80,00.  
+- Não há agendamento de horário específico, prazo de 48h úteis.
+
+---
+
+### 10. Teste de Velocidade  
+**Pergunta:** Como testar velocidade?  
+**Resposta:**  
+- Usar computador via cabo no conversor.  
+- Sites: speedtest.net, minhaconexao.com.br  
+- Wi-Fi pode não entregar toda banda contratada.
+
+---
+
+### 11. DNS  
+**Pergunta:** Preciso configurar DNS?  
+**Resposta:**  
+- Não. Equipamentos já usam DNS automático.
+
+---
+
+### 12. Fatura, Bloqueio e Pagamento  
+**Pergunta:** Como receber, pagar, desbloquear ou pedir segunda via?  
+**Resposta:**  
+- Fatura enviada por e-mail, WhatsApp, SMS e Central do Assinante.  
+- [Central do Assinante](https://portal.lestetelecom.com.br/login)  
+- Bloqueio parcial (reduzido a 1Mbps) após 15 dias; bloqueio total após 45 dias.  
+- Não existe desbloqueio de confiança, só com pagamento.  
+- Pagamento: Pix, cartão, boleto, crédito recorrente, loja física.
+
+---
+
+### 13. Comprovante  
+**Pergunta:** Como enviar comprovante de pagamento?  
+**Resposta:**  
+- WhatsApp: 2020-1300  
+- E-mail: sac@lestetelecom.com.br  
+- Liberação automática em até 30 minutos.
+
+---
+
+### 14. Mudança de Endereço/Ponto  
+**Pergunta:** Como pedir mudança de endereço ou novo ponto?  
+**Resposta:**  
+- Solicitar via atendimento, fornecer dados completos do titular.  
+- Pagamento proporcional e/ou taxa de ativação (parcelável até 10x no cartão).
+
+---
+
+### 15. Cancelamento  
+**Pergunta:** Como cancelar meu plano?  
+**Resposta:**  
+- Solicitar pelo atendimento.  
+- Atendimento retorna em até 12h úteis.
+
+---
+
+### 16. IP Fixo  
+**Pergunta:** A Leste oferece IP fixo?  
+**Resposta:**  
+- Apenas para clientes PME, a partir de R$150 mensais.
+
+---
+
+### 17. IPTV  
+**Pergunta:** A Leste trabalha com IPTV?  
+**Resposta:**  
+- Não. Não presta suporte nem garante funcionamento de IPTV.
+
+---
+
+### 18. Contatos e Lojas  
+- WhatsApp: 2020-1300  
+- Telefones: 2020-1300 / 3940-0130 / 0800 053 1300  
+- [Endereços e horários das lojas](https://www.lestetelecom.com.br/)
+
+---
+
+### Observações importantes
+- Sempre registre protocolo do cliente.  
+- Explique restrições: sem senha de roteador, sem desbloqueio confiança, Wi-Fi não garante banda total.  
+- Prazo para visita técnica: até 48h úteis.

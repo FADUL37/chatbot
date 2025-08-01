@@ -1,0 +1,122 @@
+PLUSCOM - FAQ Chatbot
+
+1. Qual o horário de atendimento da UpCall?  
+R: UPSOFT - OK  
+   Somente ligações  
+   Segunda a sexta: 08h00 às 18h00  
+   Sábados: 08h00 às 12h00
+
+2. A empresa possui atendimento presencial?  
+R: Sim.  
+   Endereço: Antônio Lopes dos Santos, 543, Vila Toninho.
+
+3. Contatos:  
+R: Telefone: (17) 4141-2790 e (17) 3042-2025  
+   WhatsApp: (17) 4141-2790 e (17) 3042-2025
+
+4. Site:  
+R: www.pluscom.net.br
+
+5. Facebook:  
+R: https://www.facebook.com/share/1B8YuHMpje/?mibextid=wwXIfr
+
+6. Quais as tecnologias oferecidas?  
+R: Internet (principal serviço) e telefonia fixa SIP.  
+   TV em implantação com app da Sky.  
+   Planos promocionais com apps agregados (Max, Deezer, Looke, etc).
+
+7. Quais planos vendidos?  
+R: Não informado detalhadamente.
+
+8. Cidades/bairros atendidos?  
+R: Apenas São José do Rio Preto.
+
+9. Equipamentos utilizados?  
+R: Roteadores e ONTs WiFi 6.
+
+10. Presta suporte a repetidores?  
+R: Apenas quando contratados com a empresa. Informação no nome do serviço.
+
+11. Presta suporte a câmeras?  
+R: Não.
+
+12. Portas de acesso aos roteadores?  
+R: Via Hubsoft (funcionalidade na página de serviços) ou portas 80, 8080, 8888.
+
+13. Usuário e senha padrão?  
+R: Usuário: Admin  
+   Senhas: 41412790, 41412790srr, 41412790Srr, ou específicas em campo observação.
+
+14. É possível informar senha ao cliente?  
+R: Não, exceto casos pontuais.
+
+15. Se necessário abrir OS para trocar senha, é cobrado?  
+R: Não, apenas abertura de chamado.
+
+16. Sites para teste de velocidade?  
+R: Speedtest e NPerf.
+
+17. Garantem toda banda contratada via WiFi?  
+R: Sim.
+
+18. Qual DNS padrão?  
+R: 10.189.43.92 e 10.189.43.82
+
+19. Tratativas para reset?  
+R: Se cliente fizer reset, visita técnica cobrada R$30,00.
+
+20. Existe suporte N2?  
+R: Não, pode enviar direto para N3.
+
+21. Prazo de atendimento?  
+R: Residencial: 48h  
+   Corporativo: 8h (verificar serviço contratado)
+
+22. Existe setor de agendamento?  
+R: Sim, interno, depois encaminhado a técnico.
+
+23. Custo visita técnica improdutiva?  
+R: R$30,00
+
+24. Tem plantão fins de semana e feriado?  
+R: Sim, para casos afetando vários clientes ou planos dedicados. Pontuais no horário comercial.
+
+25. Forma pagamento serviços?  
+R: Dinheiro ou Pix no dia do agendamento.
+
+26. Trabalham com IPTV?  
+R: Não.
+
+27. Fornecem IP Fixo? Valor?  
+R: R$30,00
+
+28. Mudança de ponto/endereço?  
+R: Abrir atendimento no Hub para contato e agendamento.
+
+29. Podemos enviar fatura?  
+R: Sim.
+
+30. Com quantos dias ocorre bloqueio?  
+R: 15 dias após vencimento.
+
+31. Podemos fazer desbloqueio de confiança?  
+R: Sim.
+
+32. Por quantos dias a conexão é liberada?  
+R: Até 2 dias.
+
+33. Possui redução de velocidade?  
+R: Não.
+
+34. Métodos de pagamento?  
+R: Código de barras ou Pix QR code.
+
+35. Procedimento comprovante pagamento?  
+R: Enviar via WhatsApp para conferência e desbloqueio.
+
+36. Como prosseguir em cancelamento?  
+R: Informar contato para recolha de equipamentos e verificação de débitos.
+
+---
+
+FIM DO FAQ PLUSCOM

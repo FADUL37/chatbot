@@ -1,0 +1,109 @@
+RTECH - FAQ Chatbot
+
+1. Qual o horário de atendimento da UpCall?  
+R: Das 08h às 22h  
+   UPSOFT - OK
+
+2. Login CHATMIX:  
+R: upchat@upgradeisp.com.br  
+   Senha: UP@chat28*
+
+3. Possui atendimento presencial?  
+R: Sim.  
+   Endereço: Cajazeiras VIII, Nº 61, Salvador - BA, CEP 41338-700
+
+4. Contatos:  
+R: WhatsApp: (71) 9 9712-0416  
+   Administrativo/Contabilidade: (71) 4042-1421, (71) 9 8602-7913  
+   Canal Exclusivo Campanha (Vendas): (71) 9 9921-5006  
+   Site: https://rtechfibra.com.br/  
+   Email: contato@rtechtelecom.com.br
+
+5. Horário comercial:  
+R: Segunda a sexta: 08h às 17h30  
+   Sábado: 08h às 12h
+
+6. Quais as tecnologias oferecidas?  
+R: Fibra (migração em andamento)
+
+7. Quais os planos vendidos?  
+R:  
+   - 35MB: R$59,90 (taxa instalação R$150 em até 6x)  
+   - 50MB: R$75,00 (taxa instalação R$150 em até 6x)  
+   - 100MB: R$120,00 (taxa instalação R$150 em até 6x)  
+   - 200MB: R$200,00 + WiFi grátis (roteador em comodato, taxa isenta)
+
+8. Quais cidades/bairros atendidos?  
+R: Salvador - BA  
+   Bairros: Cajazeiras V, Cajazeiras VIII, Castelo Branco, Fazenda Grande I
+
+9. Presta suporte a repetidores?  
+R: Sim, configura/instala cobrando R$40 pela visita. Pode encaminhar para N3.
+
+10. Portas de acesso aos roteadores?  
+R: 45000 ou 8080
+
+11. Usuário e senha padrão?  
+R: 1511rtech, admin, adminpadrao, padraortech, @suportertech, 15119637, padrao1511
+
+12. É possível informar senha ao cliente?  
+R: Não.
+
+13. DNS padrão?  
+R: 172.16.0.33, 172.16.1.33, 8.8.8.8
+
+14. Tratativas para reset?  
+R: Avaliar e orientar ou abrir N2.
+
+15. Nível de sinal ideal?  
+R: RX até -25dBm; abaixo disso, abrir N3.
+
+16. Existe suporte N2?  
+R: Sim.
+
+17. Como proceder com clientes desconectados?  
+R: Abrir N2.
+
+18. Prazo de atendimento?  
+R: 48 horas.
+
+19. Custo visita técnica improdutiva?  
+R: R$40.
+
+20. Plantão finais de semana e feriado?  
+R: Somente aos sábados.
+
+21. Forma pagamento serviços?  
+R: Pagamento imediato ou na próxima fatura.
+
+22. Trabalham com IPTV?  
+R: Não, apenas orientações ANATEL.
+
+23. Fornecem IP fixo? Valor?  
+R: Pacotes com link dedicado, IP fixo e SLA personalizado, valores sob negociação.
+
+24. Mudança de ponto e instalação?  
+R: Abrir N3; readequação custa R$40. Mudança de endereço abrir N3, valor R$60.
+
+25. Podemos enviar fatura?  
+R: Sim.
+
+26. Central do Assinante:  
+R: https://linklist.bio/CENTRAL_DO_ASSINANTE  
+   Login e senha: CPF do cliente
+
+27. Podemos fazer desbloqueio de confiança?  
+R: Sim, com apenas uma fatura em atraso.
+
+28. Possui redução de velocidade?  
+R: Não.
+
+29. Métodos de pagamento?  
+R: Fatura com QR Code para pagamento via PIX.
+
+30. Procedimento para comprovante de pagamento:  
+R: Abrir OS para envio de comprovante.
+
+---
+
+FIM DO FAQ RTECH

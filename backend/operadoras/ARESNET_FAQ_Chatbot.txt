@@ -1,0 +1,151 @@
+ARESNET – FAQ Chatbot (Pergunta & Resposta)
+
+1. [Horário de Atendimento]
+Q: Qual o horário de atendimento da ARESNET (UPCALL)?
+A:
+- Segunda a Sexta: 03h às 09h
+- Sábado e Domingo: 12h às 18h
+
+2. [Planos Disponíveis]
+Q: Quais são os planos da ARESNET?
+A:
+Plano Rural:
+- 100 Mbps – R$ 130,00
+- 160 Mbps – R$ 150,00
+- 180 Mbps – R$ 180,00
+- 200 Mbps – R$ 199,00
+- 240 Mbps – R$ 250,00
+
+Plano Urbano:
+- 400 Mbps – R$ 89,90
+- 600 Mbps – R$ 99,90
+- 700 Mbps – R$ 119,90
+- 800 Mbps – R$ 139,90
+
+3. [Áreas de Cobertura]
+Q: Em quais cidades ou bairros a ARESNET atua?
+A:
+- Urbano: Lagoinha, Cunha, São Luiz, Redenção, Paraibuna, Santa Branca
+- Rural: Todas as cidades acima, Taubaté, 2 bairros de Guaratinguetá, 1 bairro de Natividade da Serra
+
+4. [Tecnologia]
+Q: Qual tecnologia a ARESNET oferece?
+A: Fibra óptica
+
+5. [Equipamentos Utilizados]
+Q: Quais os equipamentos instalados pela ARESNET?
+A: ONU ZTE 660, ONU ZTE AX 3000, ONU Parks, ONU EPON Next, ONU EPON Furukawa, Roteador ZTE 1200, TP-Link 1200, Intelbras /100, TP-Link /100
+
+6. [Suporte a Equipamentos]
+Q: Prestam suporte a repetidores ou câmeras?
+A: Não, não prestamos suporte a repetidores nem câmeras.
+
+7. [Senha e Acesso ao Roteador]
+Q: Qual usuário e senha padrão dos equipamentos?
+A:
+- ZTE: qualquer modelo é multipro
+- TP-Link: admin, admin1, admin2 ou admin123
+
+8. [Senha do Roteador]
+Q: Posso informar a senha do roteador ao cliente?
+A: Sim, pode informar.
+
+9. [Troca de Senha – Ordem de Serviço]
+Q: É cobrado para troca de senha do roteador?
+A: Sim, R$ 50,00 caso precise abrir OS.
+
+10. [Teste de Velocidade]
+Q: Qual site usar para testar a velocidade da internet?
+A: Use o fast.com
+
+11. [Garantia de Banda]
+Q: A velocidade contratada é garantida via WiFi?
+A: Garantimos a velocidade por cabo de rede.
+
+12. [DNS Padrão]
+Q: Qual o DNS padrão da ARESNET?
+A: 45.161.255.249
+
+13. [Reset de Equipamento]
+Q: Como faço o reset do equipamento?
+A:
+Pressione o botão de reset por 30 segundos até as luzes apagarem, solte o botão e aguarde. Após o reset, use as senhas padrão para acessar.
+
+14. [Reconfiguração Pós-Reset]
+Q: Como configurar o equipamento após resetar?
+A:
+- Se ONU + roteador (ONU em BRIDGE): Configure PPPoE no roteador (login e senha do PPPoE).
+- Se ONU em ROUTER: Configure IP dinâmico.
+
+15. [Chamados Técnicos]
+Q: Tem suporte de segundo nível (N2)?
+A: Sim, temos N2 antes de enviar para N3.
+
+16. [Prazo de Atendimento Técnico]
+Q: Qual o prazo de atendimento do suporte?
+A:
+- Contratos comuns: 48h
+- Dedicados: 4h
+- Pode haver prazo de 24h conforme contrato
+
+17. [Visita Técnica]
+Q: Qual o custo de visita técnica improdutiva?
+A: R$ 50,00
+
+18. [Atendimento Fins de Semana e Feriado]
+Q: Tem plantão técnico nos fins de semana e feriado?
+A: Sim.
+
+19. [Forma de Pagamento de Serviços]
+Q: Como é feito o pagamento de serviços como visita técnica e mudança de ponto?
+A: Via boleto bancário.
+
+20. [IP Fixo]
+Q: A ARESNET fornece IP fixo? Qual o valor?
+A: Sim, R$ 80,00 a mais na mensalidade.
+
+21. [IPTV]
+Q: A ARESNET trabalha ou presta suporte com IPTV?
+A: Não trabalhamos e não prestamos suporte.
+
+22. [Mudança de Ponto ou Endereço]
+Q: Como funciona a mudança de ponto/endereço?
+A: Deve ser aberto um protocolo para fila de mudança de endereço.
+
+23. [Fatura e Bloqueio]
+Q: A ARESNET pode enviar fatura?
+A: Sim.
+Q: Em quantos dias após o vencimento ocorre bloqueio?
+A: No 16º dia após o vencimento.
+Q: Pode fazer desbloqueio de confiança?
+A: Somente mediante envio de comprovante.
+Q: Por quanto tempo libera após comprovante?
+A: 24 horas.
+Q: Tem redução de velocidade após vencimento?
+A: Não, só suspensão após 16 dias.
+
+24. [Pagamento]
+Q: Quais as formas de pagamento da fatura?
+A: Loja física (débito/crédito), carnê.
+
+25. [Cancelamento]
+Q: Como cancelar o serviço?
+A: Abrir protocolo para setor financeiro.
+
+26. [Atendimento Presencial e Lojas]
+Q: Tem atendimento presencial? Onde?
+A:
+- Av. Celestino Campos Coelho, 52 – São Luiz do Paraitinga – SP
+- Rua Dr. Casemiro da Rocha, 79 – Apto 1 – Centro, Cunha
+- Rua Cel Alfredo de Lima, 93 – Centro, Santa Branca – 12380-000
+Horários das lojas físicas:
+- Segunda a quinta: 08h às 18h
+- Sexta: 08h às 17h
+
+27. [Contatos]
+Q: Quais os contatos da ARESNET?
+A:
+- Telefone e WhatsApp: (12) 3570-5151
+- Central do Assinante: https://aresnet.sgp.net.br/accounts/central/login  (Login: CPF / Senha: CPF)
+- Site: https://aresnet.com.br/
+- E-mail: atendimento@aresnet.com.br

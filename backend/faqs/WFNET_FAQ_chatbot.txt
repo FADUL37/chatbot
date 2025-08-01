@@ -1,0 +1,102 @@
+
+WFNET - FAQ CHATBOT
+
+Horário de Atendimento da UPCALL (GMT -3)  
+- Segunda à Sexta: 22h às 08h  
+- Sábados: 17h às 08h de Segunda  
+- SOMENTE LIGAÇÕES  
+
+Acesso ao Sistema  
+- IP: 143.0.31.249  
+- Porta: 64712  
+- Usuário: base-atendimento  
+- Senha: wfnet@base2022  
+
+TUTORIAIS  
+- Guia de Atendimento  
+- Procedimento Financeiro  
+- Cliente Já Possui Chamado Aberto  
+
+Instruções:  
+- Selecionar SEMPRE o Técnico "Y-Plantonista"  
+- Adicionar Telefone de Contato na descrição do protocolo  
+
+Tecnologias oferecidas  
+- Fibra Óptica  
+
+Planos vendidos  
+- 200Mb, 500Mb, 700Mb, 1Gb  
+
+Cidades/bairros de atuação  
+- Itapetininga, Capão Bonito, Angatuba, São Miguel Arcanjo, Sarapuí, Pilar do Sul  
+
+Equipamentos utilizados  
+- ONU HUAWEI, ZTE, Ubiquiti, Roteador Tplink  
+
+Suporte a repetidores? NÃO  
+Suporte a câmeras? NÃO  
+
+Acesso aos roteadores  
+- Não necessário  
+- Não informar usuário/senha  
+- Não informar senha ao cliente  
+
+Troca de senha e OS  
+- Não precisa trocar senha  
+- Abrir chamado e equipe realizará no próximo dia  
+
+Sites para teste de velocidade  
+- Speedtest.net  
+- Fast.com  
+
+Garantia de banda WiFi  
+- Aproximadamente 50%  
+
+DNS padrão  
+- 143.0.31.254  
+- 143.0.31.244  
+
+Reset de equipamento  
+- Configuração automática via TR-069  
+
+Suporte N2/N3  
+- Não existe  
+
+Prazo de atendimento  
+- 72 horas  
+
+Setor de agendamento? Sim  
+
+Custo de visita técnica improdutiva  
+- Sem custo  
+
+Plantão fim de semana e feriado? Sim  
+
+Pagamento por visita técnica e mudança de ponto  
+- Nenhum  
+
+IPTV e suporte  
+- Watch.tv  
+- Problemas tratados no dia seguinte após abertura de chamado  
+
+IP fixo? Não  
+
+Mudança de ponto ou endereço  
+- Abrir chamado  
+- Contato com cliente no dia seguinte  
+
+Financeiro e comercial  
+- Envio de fatura: Sim  
+- Bloqueio: 10 dias de atraso  
+- Desbloqueio de confiança: Não  
+- Conexão liberada após bloqueio: 10 dias  
+- Redução de velocidade: Não  
+- Métodos de pagamento: Boleto  
+- Comprovante: Foto do comprovante  
+
+Cancelamento  
+- Via abertura de chamado  
+
+Contato  
+- Telefone/WhatsApp: (15) 3376-8333  
+- Site: https://www.wfnet.net.br/

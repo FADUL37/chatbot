@@ -1,0 +1,123 @@
+
+ZLINK - FAQ para Chatbot
+
+Horário de Atendimento da FELX (GMT -3):
+- Segunda à Sexta: 00h às 08h e 18h30 às 23h59
+- Sábados: 00h às 08h e 12h às 23h59
+- Domingos e Feriados: 00h às 23h59
+
+Canais de Atendimento:
+- Chat e ligação
+- UPCALL OK
+- IXC / OPA
+
+Procedimentos importantes:
+- Atendimentos que precisam continuidade N2/N3 ou financeiro/comercial não devem ser finalizados, apenas transferidos.
+- Para contratação, transferir ao setor comercial e informar horário de atendimento.
+
+Tecnologias oferecidas:
+- Conexão via Rádio
+- Fibra óptica (FTTh)
+- ITTV (aplicativo de TV)
+
+Planos vendidos (Modalidade Pré-Pago Combo):
+
+Plano        | Valor (R$) | Download | Upload | Serviços inclusos
+------------ | ---------- | -------- | ------ | ---------------------------------
+Combo Start  | 124,90     | 1000 Mb  | 500 Mb | 1 Tela itTV Mini (60 canais)
+Combo Basico | 139,90     | 1000 Mb  | 500 Mb | 1 Tela itTV Plus (85 canais) + 1 app standard (à escolha)
+Combo Plus   | 159,90     | 1000 Mb  | 500 Mb | 1 Tela itTV Total (100 canais + Filmes e Séries) + 2 apps standard (à escolha)
+Combo Max    | 209,90     | 1000 Mb  | 500 Mb | 1 Tela itTV Total + 2 apps standard + 1 app premium (à escolha)
+Combo Ultra  | 259,90     | 1500 Mb  | 500 Mb | Igual Combo Max, com velocidade maior
+
+- Taxa de instalação: geralmente grátis, depende da localização (incluso até 200 metros de cabo).
+- Equipamentos para internet em comodato, roteador WiFi 6 incluso.
+- Aplicativo itTV para TV, disponível em vários dispositivos.
+
+Planos de internet só (Pré-pago):
+- 1000 mega: R$ 124,90
+- 1500 mega: R$ 259,90
+- Mesmas condições de taxa e benefícios do combo.
+
+Planos via rádio:
+- Disponíveis somente onde não há fibra
+- Planos de 2Mb a 8Mb com valores entre R$50 e R$150
+- Valor do roteador: R$130 (condições de pagamento parcelado ou à vista)
+
+Cidades e bairros de atuação:
+- Garuva/SC: Três Barras, Urubuquara, Monte Crista, Centro, entre outros
+- Guaratuba/PR: Pedra Branca do Araraquara
+- Joinville/SC: Rio Bonito
+- Consulte cobertura detalhada no site www.zlink.net.br
+
+Equipamentos utilizados:
+- Rádio: Mikrotik, Ubiquiti
+- Fibra: Parks, ZTE, Huawei, TP-Link, Intelbras
+
+Suporte:
+- Repetidores: não (exceto ponto adicional comercializado)
+- Câmeras: não
+- Acesso remoto roteadores: Huawei (porta 443), demais (portas 8280, 8281, 8282), Ultrabit (porta 80)
+- Usuários e senhas padrões:
+  - ONU e roteadores fibra: usuário admin, senha FaZ2707zlink
+  - ONU Intelbras: usuário admin, senha #FaZ2707zlink
+  - Antenas Ubiquiti: ubnt / faz2707
+  - Antenas Mikrotik: fabioz / faz2707
+  - Antenas ULTRABIT Ubiquiti: user / rede*987
+- Não informar senha ao cliente
+- Troca de senha e reset: cobrar visita técnica de R$50 a R$80, dependendo da região
+
+Testes de velocidade:
+- Speedtest: https://www.speedtest.net/
+- Nperf: https://www.nperf.com/pt/?sp=6382
+
+Garantia de banda via WiFi:
+- Contratações novas garantem 100% da banda
+- Clientes antigos podem ter limitações por roteadores próprios ou portas elétricas
+
+DNS padrão:
+- DNS1: 45.166.52.8
+- DNS2: 172.26.112.1
+
+Reset:
+- Nunca realizar reset total, apenas desligar e ligar o equipamento
+- Reset feito pelo cliente pode requerer visita técnica cobrada
+
+Suporte técnico:
+- Encaminhamento para suporte do provedor (N2/N3) via chat e sistema
+- Prazos: residencial 48h, corporativo 24h, dedicado 6h
+- Setor de agendamento existe para programação das visitas
+- Visita técnica improdutiva: R$50 a R$80 conforme região
+- Plantão fim de semana só para backbone/link dedicado
+
+IP Fixo:
+- Valor: R$20,00 mensais
+
+Mudanças e adicionais:
+- Mudança de ponto no mesmo local: R$50,00
+- Ponto adicional Mesh fibra: R$29,90/mês
+- Serviços adicionais internos: hora técnica R$75,00, cabo cat5 R$1,50/m, roteador R$350 à vista ou 3x no cartão
+
+IPTV e Aplicativo ITTV:
+- Solução via aplicativo ITTV PLUS para Smart TVs, TVbox, smartphones, navegadores
+- Alguns dispositivos podem ter limitações de processamento
+
+Pagamento e Financeiro:
+- Bloqueio: planos pré-pagos bloqueiam em 5 dias, pós-pagos de 35 a 45 dias conforme vencimento
+- Desbloqueio de confiança: liberado se função habilitada no contrato, libera por 5 dias
+- Formas de pagamento: boleto, PIX QRCode, cartão via central do assinante
+- Pontos de cobrança físicos disponíveis em Garuva-SC
+- Não é necessário envio de comprovante (exceto casos específicos)
+
+Cancelamento:
+- Identificação positiva do titular
+- Motivo informado
+- Cancelamento via fechamento financeiro e OS de recolha
+- Tentativas de reversão podem ser feitas antes
+
+Contatos:
+- Escritório Garuva-SC: Estr. Três Barras, 4825, Garuva - SC, 89248-000
+- Telefone e WhatsApp: (47) 99114-3881
+- Central do assinante: https://zlink.net.br/central_assinante_web/login (CPF sem pontos)
+- Site: www.zlink.net.br
+- E-mail: contato@zlink.net.br

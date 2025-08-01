@@ -1,0 +1,164 @@
+ETECC – FAQ Chatbot (Pergunta & Resposta)
+
+1. [Horário de Atendimento UPCALL]
+Q: Qual o horário de atendimento da ETECC pela UpCall?
+A:
+- Segunda a Sexta: 21h às 08h
+- Sábado: 20h30 até 09h de Domingo
+- Domingo: 17h às 08h de Segunda
+
+2. [Tecnologias Oferecidas]
+Q: Quais tecnologias a ETECC oferece?
+A:
+- Roteadores dual-band (2.4GHz/5GHz)
+- Wi-Fi 6
+- Redes Mesh (Link+ Huawei)
+
+3. [Planos Comercializados]
+Q: Quais são os planos?
+A:
+- Internet Pré-pago: Equipamentos do cliente, sem fidelidade, recarga para 30 dias
+- Internet Livre: Equipamentos comodato, compromisso mensal
+- Planos Residenciais: 100MB – R$79,90; 600MB – R$99,90; 800MB – R$129,90; Ilimitado – R$149,90
+- Comerciais (CNPJ): 100MB – R$99,90; 600MB – R$129,90; 800MB – R$149,90; Ilimitado – R$169,90
+- Plano Gamer: R$169,90
+- Instalação em até 48h após pagamento e documentos
+
+4. [Documentos para Contratação]
+- RG, CPF ou CNH
+- Comprovante de residência
+- Selfie com documento ao lado do rosto
+
+5. [Cobertura]
+Q: Onde a ETECC atende?
+A:
+- Peruíbe
+- Itanhaém
+- Mongaguá
+- Praia Grande
+
+6. [Equipamentos Utilizados]
+Q: Quais equipamentos são usados?
+A:
+- Roteadores: Huawei WS5200/AX2/WS7001, Intelbras IWR-3000N, TP-Link Archer C5 AC1200
+- ONUs: Furukawa FK-ONU-20L, Huawei EG8010H, Cianet CTS 2702D, Fiberhome AN5506
+- ONT: Huawei EG8145X6
+
+7. [Suporte a Repetidores/Câmeras]
+Q: Presta suporte a repetidores ou câmeras?
+A: Não
+
+8. [Porta de Acesso]
+Q: Qual a porta de acesso dos roteadores?
+A:
+- Padrão: 80
+- Pontos adicionais: 8080 ou 8081
+
+9. [Usuário/Senha Padrão]
+Q: Qual usuário/senha padrão?
+A:
+- Senha padrão: eteccinf ou o PPPoE do cliente
+- ONT Huawei: Usuário: Epadmin / Senha: adminEp
+
+10. [Senha do Roteador]
+Q: Pode informar a senha ao cliente?
+A: Sim, com orientação para tomar cuidado ao alterar configurações
+
+11. [Troca de Senha/Reset]
+Q: Precisa abrir OS para trocar senha/reset?
+A:
+- Se não houver aviso prévio, não é cobrada visita
+- Se cliente já foi notificado por excesso, valor da visita: R$90
+- OS só pelo N2
+
+12. [Teste de Velocidade]
+Q: Qual site para teste de velocidade?
+A: https://www.speedtest.net/pt
+Q: Banda garantida?
+A: 80% da contratada, em cabo compatível
+
+13. [DNS Padrão]
+Q: Qual DNS padrão?
+A:
+- Primário: 177.185.40.19
+- Secundário: 138.94.85.98
+
+14. [Reset de Equipamento]
+Q: Como proceder em caso de reset?
+A:
+- Tentar reconfigurar por telefone
+- Se não resolver, agendar visita (sem custo, regra igual troca de senha)
+- Manual Huawei disponível
+
+15. [Escalonamento e OS]
+Q: Existe N2/N3?
+A: Sim, atendimento pendente: Processo Suporte – Ligação, equipe N2 verifica
+Q: Quem agenda visita?
+A: N2
+
+16. [Prazo de Atendimento Técnico]
+Q: Prazo para visita técnica?
+A:
+- Em geral, mesmo dia ou até o próximo
+- Casos sem acesso à internet: até o dia seguinte
+- Não há visita para lentidão/oscilação aos domingos/feriados
+
+17. [Visita Técnica – Custo]
+Q: Quanto custa visita improdutiva?
+A: Só em casos específicos, avaliados pela supervisão
+
+18. [Plantão Feriado/Fim de Semana]
+Q: Tem plantão?
+A: Sim
+
+19. [Forma de Pagamento de Serviços]
+Q: Quais métodos aceitos?
+A: Boleto, PIX, Cartão de crédito
+
+20. [IPTV]
+Q: Trabalha/suporta IPTV?
+A: Não
+
+21. [IP Fixo]
+Q: Fornece IP fixo? Qual valor?
+A: Sim, R$20/mês, conforme disponibilidade
+
+22. [Mudança de Ponto/Endereço]
+Q: Como solicitar?
+A: OS aberta pelo N2 (verificar disponibilidade). Mudança de endereço: solicitar novos dados e agendamento pelo N2
+
+23. [Financeiro/Comercial – Fatura, Bloqueio, Liberação]
+Q: Pode enviar fatura?
+A: Sim
+Q: Bloqueio após quantos dias?
+A: 5 dias após vencimento
+Q: Desbloqueio de confiança?
+A: Não
+Q: Liberação após pagamento?
+A: 48h
+Q: Redução de velocidade?
+A: Casos isolados em clientes antigos
+
+24. [Formas de Pagamento de Fatura]
+PIX, boleto e cartão de crédito
+
+25. [Comprovante de Pagamento]
+Q: Como proceder?
+A: Anexar no sistema e aguardar compensação
+
+26. [Cancelamento]
+Q: Como cancelar?
+A: Solicitar motivo; se técnico, tentar retenção; se recusar, abrir atendimento para setor de retenção
+
+27. [Atendimento Presencial]
+Q: Tem loja física?
+A: Sim
+- Itanhaém: Av. Condessa de Vimieiros, 71 - Centro
+- Peruíbe: Av. Padre Anchieta, 1774 - Centro
+- Mongaguá: Av. São Paulo, 1859 - Centro
+
+28. [Contatos]
+Telefone/WhatsApp: 13 3421-1999
+Site: https://eteccnet.com.br
+Facebook: https://www.facebook.com/EteccInf
+Central do Assinante: https://pix.eteccnet.com.br (Login: CPF do cliente, Senha: consultar cadastro)

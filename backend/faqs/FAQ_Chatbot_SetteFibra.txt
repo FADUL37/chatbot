@@ -1,0 +1,164 @@
+Sette Fibra - FAQ Chatbot
+
+1. Qual o horário de atendimento da UpCall?  
+R:  
+   - Segunda a sábado: 22h às 08h  
+   - Domingos e feriados: 24h  
+   - Transbordo no telefone a partir das 20h  
+   - UPSOFT - OK
+
+2. Quais as tecnologias oferecidas?  
+R: Internet, canais de TV, telefonia (chip) e SVA's (GloboPlay, Premiere, HBO Max, Looke, Deezer).
+
+3. Atendimento para chip:  
+R: Encaminhar para provedor informando horário se fora do comercial.
+
+4. Suporte para canais de TV e SVA's:  
+R: Encaminhar ao N2 com prazo de atendimento.
+
+5. Serviços SVA:  
+R: GloboPlay, Premiere, HBO Max, Looke.
+
+6. Planos vendidos:  
+R: Encaminhar ao Setor Contratar (Vendas no OPA).
+
+7. Cidades atendidas:  
+R: Abadiânia, Anápolis, Corumbá de Goiás, Goianápolis, Nerópolis, Planalmira, Posse D'Abadia, Terezópolis de Goiás.
+
+8. Equipamentos utilizados:  
+R: Huawei, Zte, FiberHome, Ubiquiti (fibra e antenas wireless).
+
+9. Suporte a repetidores:  
+R: Vendem, instalam e oferecem suporte (R$100). Suporte para terceiros R$30 (abrir N2).
+
+10. Portas de acesso:  
+R: 80 e 8077.
+
+11. Usuário e senha padrão:  
+R:  
+   - Geral: se77e/se77e; !@#7aces/77acesso  
+   - Huawei: telecomadmin/admintelecom  
+   - ZTE: multipro/multipro  
+   - FiberHome: admin/admin
+
+12. Informar senha ao cliente?  
+R: Não para equipamentos em comodato.
+
+13. Senha PPPoE:  
+R: Só para clientes com roteador próprio.
+
+14. Reset e reconfiguração:  
+R: Podem resetar para padrão e orientar cliente.
+
+15. Cobrança para troca de senha:  
+R: Abrir N2; taxa informada pelo setor responsável.
+
+16. DNS padrão:  
+R: Não configurar; em casos necessários 143.0.252.10 e 143.0.252.20.
+
+17. Sinal ideal:  
+R: RX até -25dBm; abaixo disso, encaminhar N2.
+
+18. Suporte N2 ou N3:  
+R: Só N2, que encaminha para N3 quando necessário.
+
+19. Falta de interação:  
+R: Abrir N2.
+
+20. Prazo de atendimento:  
+R: Primeiro contato em até 24h úteis.
+
+21. Setor de agendamento:  
+R: Informar que setor responsável fará contato.
+
+22. Custo visita técnica improdutiva:  
+R: R$30.
+
+23. Plantão finais de semana e feriado:  
+R:  
+   - Seg a sex: 08h às 21h  
+   - Sáb: 08h às 16h  
+   - Dom: 08h às 14h  
+   - Informar urgências no grupo.
+
+24. Forma pagamento serviços:  
+R: Imediato ou na próxima fatura.
+
+25. IPTV e suporte:  
+R: Configurações gerais; se persistir, abrir N2.
+
+26. IP fixo:  
+R: Sim.
+
+27. Mudança ponto/instalação:  
+R: Abrir N2; custo R$60.
+
+28. Mudança endereço:  
+R: Solicitar novo endereço e abrir N2; custo R$100 à vista ou R$120 parcelado.
+
+---
+
+### FINANCEIRO E COMERCIAL
+
+29. Clientes “Aguardando Assinatura”:  
+R: Encaminhar para provedor para validação.
+
+30. Atendimento streaming:  
+R: Verificar fidelidade; se expirada, informar cliente e agendar contato.
+
+31. Envio de fatura:  
+R: Sim.
+
+32. Desbloqueio de confiança:  
+R: Sim, 1 vez ao mês.
+
+33. Bloqueio:  
+R: Após 8 dias (bloqueio total em dia útil).
+
+34. Redução velocidade:  
+R: Sim, após 1 dia do vencimento; liberação 1x a cada 30 dias.
+
+35. Métodos de pagamento:  
+R: Fatura, cartão e PIX via QR code.
+
+36. Comprovante pagamento:  
+R: Abrir OS para envio.
+
+---
+
+### INFORMAÇÕES DA EMPRESA
+
+37. IXC:  
+https://ixc.se77e.com.br/login.php
+
+38. Central do Assinante:  
+https://ixc.se77e.com.br/central_assinante_web/login
+
+39. Endereços:  
+- Av. Engenheiro Roberto Muller, 576 QD 19 - Centro (Corumbá)  
+- Rua Itapeva, QD36, LT18, Apt 01, Vila Santa Rosa (Senador Canedo)  
+- Av. Otacílio Fernandes De Lima Qd.08 Lt.02 Sala 06 Centro (Abadiânia)  
+- Av. Brasil Norte, 505 - Centro - Brasil Park Shopping (Anápolis)  
+- Avenida 24 de Agosto, Q3, L6 Acima da academia Unique - Jardim Alexandrina (Anápolis)  
+- Av. Camila Delfina de Jesus, n26-A Centro (Goianápolis)
+
+40. Telefones:  
+(62) 4051-9377 (Goiás)  
+(61) 3686-7700 (Brasília)
+
+41. Site:  
+https://settefibra.com.br/
+
+42. Facebook:  
+https://www.facebook.com/Se77etelecom
+
+43. Horário da loja:  
+Segunda a sexta: 08h às 18h  
+Sábado: 08h às 12h
+
+44. Horário do suporte interno:  
+Segunda a sábado: 08h às 22h
+
+---
+
+FIM DO FAQ Sette Fibra

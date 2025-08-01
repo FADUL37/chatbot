@@ -1,0 +1,144 @@
+WF TELECOM
+
+Horário de Atendimento da UPCALL (GMT -3)
+22:00 as 08:00 seg a sábado
+08:00 as 23:59 domingo
+
+UPSOFT - OK
+
+CHAT E LIGAÇÃO
+
+SGP UPCHAT SETORES
+
+Quais as tecnologias oferecidas pela empresa?
+R: Oferecemos planos de Internet fibra óptica e telefonia.
+
+Quais os planos vendidos na empresa?
+Planos mais vendidos são de 400, 500 e 600Mb. Os valores são de acordo com o local.
+Locais onde não temos fibra teremos que avaliar.
+
+Quais cidades/bairros de atuação?
+R: Mariana, Piranga, Diogo, Ouro Preto (Antonio Pereira e Cachoeira do Cambo). Atendemos outras localidades rurais sob consulta.
+
+Quais equipamentos utilizados?
+Utilizamos ONU e ONT para fibra, sendo as mais comuns da Marca ZTE, HUAWEI. Nas operações rádios usamos SXT da Mikrotik.
+
+Presta suporte a repetidores?
+Não. Somente para ponto adicional instalados pela WFT.
+
+Presta suporte a câmeras?
+Não.
+
+Qual a porta de acesso para acesso aos roteadores?
+Porta mais comum é a 80. Alguns roteadores por padrão estão na porta 8080.
+
+Qual usuário e senha padrão para acesso aos equipamentos?
+Há um padrão mais comum que é wftelecom/cl13nt3.
+Temos outros que são:
+WFTINTERREDE/cl13nt3
+wftelecom/wftelecom
+multipro/cl13nt3
+multipro/multipro
+wftelecom/Cl13nt3 (C maiúsculo)
+adminisp/cl13nt3 (equipamentos Think)
+
+Se tiver algum erro ao logar, pode nos reportar.
+
+É possível informar ao cliente a senha do roteador?
+Não.
+
+Se não tivermos acesso para trocar a senha e seja necessário abrir OS, é cobrado e qual valor?
+Geralmente é feito via acesso remoto sem custo para o cliente.
+
+Qual o site utilizado para testes de velocidade?
+www.speedtest.com
+
+Garantem toda a banda contratada passada por WiFi?
+80%.
+
+Qual DNS padrão?
+138.117.116.11
+138.117.116.14
+
+Quais são as tratativas para reset?
+Abrir O.S de visita sendo taxa de 40,00.
+
+Existe tratativa de suporte N2 ou podemos enviar direto para N3?
+Pode ser enviado direto.
+
+Qual prazo de atendimento do Suporte, residencial e corporativo?
+Dias úteis 24h.
+
+Existe setor de Agendamento ou Técnico vai direto?
+Existe setor de agendamento.
+
+Qual o custo da visita técnica caso seja improdutiva?
+Visitas são em média entre 40,00 a 60,00. Depende muito dos motivos.
+
+Tem plantão aos finais de semana e feriado?
+Plantão final de semana temos apenas infraestrutura.
+
+Qual é a forma de pagamento de serviços como visita técnica e mudança de ponto?
+À vista. Dinheiro, pix ou cartão.
+
+A empresa trabalha com IPTV? E presta suporte do mesmo?
+Estamos implantando ainda.
+
+A empresa fornece IP Fixo? Qual valor?
+IP Fixo 40,00.
+
+Mudança de ponto no mesmo local, instalação de novo ponto, a UpCall pode abrir os? Se sim, quais os valores? Se não, para onde enviar?
+Pode encaminhar para nós ou solicitar o cliente que entre em contato de 08 às 18:00.
+
+Mudança de Endereço
+
+FINANCEIRO E COMERCIAL
+
+Podemos enviar fatura?
+Sim, sempre.
+
+Com quantos dias ocorre o bloqueio?
+15 dias acontece a suspensão.
+
+Podemos fazer o desbloqueio de confiança?
+Pode sim. Sempre.
+
+Por quantos dias a conexão é liberada?
+A liberação acontece por 5 dias.
+
+Possui redução de velocidade?
+Não.
+
+Qual métodos de pagamentos da fatura?
+Carnê (pegar na loja), APP (código de barras, pix, cartão).
+
+Qual o procedimento para comprovante de pagamento?
+Somente enviar via Whatsapp.
+
+Como prosseguir em casos de cancelamento?
+Solicitar contato de 08 às 18:00.
+
+INFORMAÇÕES DA EMPRESA
+
+ERP: MEU PROVEDOR
+
+Central do Assinante: https://central.wft.net.br/accounts/central/login
+
+ENDEREÇOS: www.wft.net.br
+
+Possui atendimento presencial?
+Rua Diamantina 648, Bairro Cabanas Mariana MG
+
+CONTATOS
+
+TELEFONE: 0800 499 9553 (31) 3558-5915
+
+WHATSAPP: 31989749553
+
+SITE: www.wft.net.br
+
+INSTAGRAM: https://www.instagram.com/wftelecom.oficial/
+
+FACEBOOK:
+
+HORÁRIOS: 09:00h às 18:00h

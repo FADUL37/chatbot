@@ -1,0 +1,125 @@
+NETPLAY - FAQ Chatbot
+
+1. Qual o horário de atendimento da UpCall?  
+R: Segunda a sexta: 8h - 18h  
+   Sábado: 8h - 12h
+
+2. A empresa possui atendimento presencial?  
+R: Sim. Endereço: Rua Bolívia, 940 - Planalto - Araçatuba/SP
+
+3. Qual o telefone de contato?  
+R: (18) 3621-5152
+
+4. Qual o WhatsApp?  
+R: 18 3621-5152
+
+5. Qual o site da NETPLAY?  
+R: netplay.net.br
+
+6. Quais tecnologias são oferecidas pela empresa?  
+R: Fibra Óptica e DSL
+
+7. Quais são os planos vendidos?  
+R: De 100MB a 1GB
+
+8. Quais cidades/bairros atendidos?  
+R: Apenas Araçatuba, todos os bairros
+
+9. Quais equipamentos são utilizados?  
+R: Roteadores residenciais, empresariais (Mikrotik e Sophos) e modens DSL
+
+10. Presta suporte a repetidores?  
+R: Não
+
+11. Presta suporte a câmeras?  
+R: Não
+
+12. Qual a porta de acesso aos roteadores?  
+R: 80, 443, 3952
+
+13. Qual usuário e senha padrão dos equipamentos?  
+R: Usuário: admin  
+    Senha: forever
+
+14. É possível informar ao cliente a senha do roteador?  
+R: Não
+
+15. Se não tivermos acesso para trocar a senha e for necessário abrir OS, é cobrado? Qual valor?  
+R: Não é cobrado
+
+16. Qual site utilizar para teste de velocidade?  
+R: https://www.speedtest.net/pt (Selecionar servidor NETPLAY)
+
+17. A empresa garante toda a banda contratada via WiFi?  
+R: Não
+
+18. Qual DNS padrão?  
+R: 177.72.8.5 e 177.72.8.6
+
+19. Como proceder para resetar o equipamento?  
+R: Opção 1: Se o cliente tiver conhecimento técnico, informar usuário PPPoE e senha (sem custo)  
+    Opção 2: Cliente pode levar até a loja (Rua Bolívia, 940) em horário comercial (sem custo)  
+    Opção 3: Se desejar visita técnica no local, será cobrado R$ 80,00
+
+20. Existe suporte N2 ou pode enviar direto para N3?  
+R: Informar na ordem de serviço que N1 não resolveu e é necessário N2 antes de encaminhar para N3
+
+21. Qual o prazo de atendimento do suporte?  
+R: Residencial: até o dia útil seguinte  
+    Corporativo (link dedicado): 4 horas (informar no grupo)
+
+22. Existe setor de agendamento ou o técnico vai direto?  
+R: Todas as O.S. abertas pela UpCall são filtradas para destinar o setor e técnico apto ao cliente
+
+23. Qual o custo da visita técnica improdutiva?  
+R: R$ 80,00 (residencial)  
+    R$ 120,00 (corporativo)
+
+24. Tem plantão aos finais de semana e feriado?  
+R: Apenas para casos massivos ou link dedicado
+
+25. Qual a forma de pagamento para visita técnica e mudança de ponto?  
+R: Boleto ou Pix
+
+26. A empresa trabalha com IPTV? Presta suporte?  
+R: Não, e não presta suporte
+
+27. A empresa fornece IP Fixo? Qual valor?  
+R: Sim, R$ 69,90
+
+28. Mudança de ponto ou endereço, como proceder?  
+R: Abrir O.S. padrão informando a necessidade. O setor interno irá passar valores e agendamento
+
+29. Podemos enviar fatura?  
+R: Não
+
+30. Com quantos dias ocorre o bloqueio por falta de pagamento?  
+R: 30 dias
+
+31. É possível desbloqueio de confiança?  
+R: Sim
+
+32. Por quantos dias a conexão é liberada no desbloqueio de confiança?  
+R: Até as 6h do dia seguinte
+
+33. Existe redução de velocidade após vencimento?  
+R: Sim, após 15 dias
+
+34. Quais métodos de pagamento da fatura?  
+R: Abrir O.S. informando a solicitação do cliente. O setor responsável irá retornar
+
+35. Como enviar comprovante de pagamento?  
+R: Abrir O.S. informando a solicitação do cliente. O setor responsável irá retornar
+
+36. Como prosseguir em caso de cancelamento?  
+R: Abrir O.S. informando a solicitação do cliente. O setor responsável irá retornar
+
+37. Qual o ERP da empresa?  
+R: https://ixc.netplay.net.br/adm.php
+
+38. Qual a Central do Assinante?  
+R: https://ixc.netplay.net.br/central_assinante_web/login
+
+---
+
+FIM DO FAQ NETPLAY

@@ -1,0 +1,113 @@
+
+MUTUM FIBRA — FAQ PARA CHATBOT
+
+Horário de Atendimento da UPCALL (GMT -3):
+Provedor usa o Fuso Horário GMT-4
+- Segunda a Sexta: das 19h30 até as 09h30
+  (Horário de almoço: 13:30h às 15:30h)
+- Sábado após 12h até Segunda às 09h30
+
+1. Tecnologias Oferecidas
+- Maior parte da área de cobertura em fibra óptica.
+- Algumas regiões rurais/fazendas atendidas via rádio.
+
+2. Cidades/Bairros de Atuação
+- Nova Mutum e Santa Rita do Trivelato (todos os bairros)
+- Comunidade São Manoel, Ranchão, Pacoval
+
+3. Acesso e Suporte Técnico
+- Sistemas:
+  - ANLIX: https://anlix.mutumfibra.com.br/ (login: upcall / senha: !Mutum2025@)
+  - FLASHMAN: https://acs.mutumfibra.com.br/ (login: upcall@upcall.com.br / senha: @MFibra$0125)
+- Localizar cliente pelo: CPF, PPPoE, IP, modelo do roteador, nome do Wi-Fi, MAC dos roteadores.
+- Acesso padrão ONU:
+  - Porta: 8010
+  - Login: admin
+  - Senha: admin
+- Senha do roteador:
+  - Sim, se roteador cadastrado no Flashman (acesso via App Mutum Fibra Wifi).
+
+4. Testes de Velocidade
+- Usar plataforma Anlix (suporte)
+- Cliente pode testar pelo App Mutum Fibra Wi-Fi ou speedtest.net
+
+5. DNS Padrão
+- Primário: 143.202.80.56
+- Secundário: 143.202.80.57
+
+6. Escalonamento de Suporte (N2/N3)
+- Tudo que não for resolvido pelo call center vai para triagem interna do N1 (provedor).
+- Equipe interna pode encaminhar para campo (N3) ou N2 (análise avançada de rede).
+- Sempre informar ao cliente que o suporte entrará em contato.
+- Prazo: Até 24h úteis para contato em casos sem conexão.
+
+7. Visita Técnica
+- Plantão: Não há aos finais de semana/feriados.
+  Sábado apenas das 07:30 até 11:30.
+- Custo: Preferencialmente não informar. Se cliente perguntar, R$40 (cidade).
+  Rural: deslocamento + mão de obra (se for questão causada pelo cliente).
+
+8. Sinal Ideal
+- RX: -15 a -22 dB (ONU)
+- TX: 2 a 3 dB (da ONU para OLT)
+
+9. IP Fixo
+- Sim, custo adicional de R$100,00.
+  Alguns planos possuem ponto extra incluso (consultar comercial).
+
+10. IPTV
+- Planos dão acesso ao Olé TV (60+ canais gratuitos, inclui locais).
+- IPTV pirata: não garantem suporte, mas auxiliam dentro do possível.
+- Para câmeras: só fornecem o Wi-Fi para técnico configurar.
+
+11. Repetidores e Mesh
+- Suporte apenas para roteadores Mesh implantados pelo provedor.
+- Rede Mesh disponível em alguns planos ou como ponto adicional (custo extra).
+
+12. IPV6
+- Já disponível.
+
+13. Mudança de Ponto/Endereço
+- Novo ponto: enviar para comercial para assinatura do termo e cadastro.
+- Mudança de endereço: 1ª mudança gratuita para contratos com fidelidade vigente e adimplentes (1 a cada 6 meses).
+
+FINANCEIRO E COMERCIAL
+
+Envio de Fatura
+- Sim, pode enviar.
+- Pix: Qr Code gerado pela central do assinante ou WhatsApp.
+- Débito em conta (Sicredi) e cartão de crédito recorrente (pode cadastrar na central).
+
+Desbloqueio de Confiança
+- Sim, 1 vez a cada 30 dias (pode ser feito pelo WhatsApp ou central do assinante).
+
+Bloqueio
+- Ocorre com 10 dias de atraso.
+
+Redução de Velocidade
+- Não há.
+
+Cancelamento
+- Perguntar motivo e tentar reter.
+  Caso queira cancelar, registrar tudo na OS e encaminhar para comercial.
+
+Nota Fiscal
+- Pode ser retirada via site ou transferido ao financeiro pelo chat.
+
+Comprovante de Pagamento
+- Comprovante recebido: pode liberar o desbloqueio de confiança e encaminhar para financeiro conferir.
+
+INFORMAÇÕES DA EMPRESA
+
+- IXC: https://ixc.mutumfibra.com.br/adm.php
+- Central do Assinante: https://ixc.mutumfibra.com.br/central_assinante_web/login
+  (Login: CPF completo sem traços/pontos | Senha: 4 primeiros dígitos do CPF)
+- Endereço Matriz: Av. dos Canários, 487, Centro, Nova Mutum - MT
+- Telefone: (65) 3308-1020
+- WhatsApp: 0800 308 1020
+  https://api.whatsapp.com/send/?phone=558003081020&text&type=phone_number&app_absent=0
+- Site: www.mutumfibra.com.br
+
+Horários de Atendimento:
+Seg-Sex: 07:30 às 11:30 e 13:30 às 17:30
+Sábado: 07:30 às 11:30
