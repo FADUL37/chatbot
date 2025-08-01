@@ -1,14 +1,6 @@
 import React, { useState } from "react";
 
-const darkTheme = {
-  background: "#121212",
-  text: "#E0E0E0",
-  inputBg: "#1E1E1E",
-  inputText: "#E0E0E0",
-  buttonBg: "#6200EE",
-  buttonHoverBg: "#3700B3",
-  shadow: "0 8px 24px rgba(0,0,0,0.6)",
-};
+const API_URL = process.env.REACT_APP_API_URL || "http://localhost:3001";
 
 export default function FloatingChatbot() {
   const [isOpen, setIsOpen] = useState(false);
@@ -22,7 +14,7 @@ export default function FloatingChatbot() {
     setResposta("");
 
     try {
-      const res = await fetch("http://localhost:3001/consulta", {
+      const res = await fetch(`${API_URL}/consulta`, {
         method: "POST",
         headers: { "Content-Type": "application/json" },
         body: JSON.stringify({ texto: input }),
@@ -47,12 +39,12 @@ export default function FloatingChatbot() {
           position: "fixed",
           bottom: 20,
           right: 20,
-          backgroundColor: darkTheme.buttonBg,
+          backgroundColor: "#6200EE",
           color: "#fff",
           padding: "14px 18px",
           borderRadius: "50px",
           cursor: "pointer",
-          boxShadow: darkTheme.shadow,
+          boxShadow: "0 8px 24px rgba(0,0,0,0.6)",
           fontWeight: "bold",
           userSelect: "none",
           zIndex: 1000,
@@ -73,14 +65,14 @@ export default function FloatingChatbot() {
             right: 20,
             width: 360,
             maxHeight: 500,
-            backgroundColor: darkTheme.background,
+            backgroundColor: "#121212",
             borderRadius: 12,
-            boxShadow: darkTheme.shadow,
+            boxShadow: "0 8px 24px rgba(0,0,0,0.6)",
             display: "flex",
             flexDirection: "column",
             zIndex: 1000,
             fontFamily: "'Segoe UI', Tahoma, Geneva, Verdana, sans-serif",
-            color: darkTheme.text,
+            color: "#E0E0E0",
           }}
         >
           {/* Header */}
@@ -119,7 +111,7 @@ export default function FloatingChatbot() {
               display: "flex",
               borderTop: `1px solid #333`,
               padding: 10,
-              backgroundColor: darkTheme.inputBg,
+              backgroundColor: "#1E1E1E",
               borderBottomLeftRadius: 12,
               borderBottomRightRadius: 12,
             }}
@@ -136,8 +128,8 @@ export default function FloatingChatbot() {
                 border: "none",
                 padding: "10px 14px",
                 fontSize: 14,
-                color: darkTheme.inputText,
-                backgroundColor: darkTheme.inputBg,
+                color: "#E0E0E0",
+                backgroundColor: "#1E1E1E",
                 outline: "none",
               }}
               disabled={loading}
@@ -148,7 +140,7 @@ export default function FloatingChatbot() {
               disabled={loading || !input.trim()}
               style={{
                 marginLeft: 8,
-                backgroundColor: darkTheme.buttonBg,
+                backgroundColor: "#6200EE",
                 border: "none",
                 borderRadius: 8,
                 color: "#fff",
@@ -159,10 +151,10 @@ export default function FloatingChatbot() {
                 transition: "background-color 0.2s",
               }}
               onMouseEnter={(e) =>
-                (e.currentTarget.style.backgroundColor = darkTheme.buttonHoverBg)
+                (e.currentTarget.style.backgroundColor = "#3700B3")
               }
               onMouseLeave={(e) =>
-                (e.currentTarget.style.backgroundColor = darkTheme.buttonBg)
+                (e.currentTarget.style.backgroundColor = "#6200EE")
               }
             >
               {loading ? "Enviando..." : "Enviar"}
